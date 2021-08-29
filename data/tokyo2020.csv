@@ -1,0 +1,1081 @@
+,country,medalist,sport,event,medal
+0,united-states, United States, BK3,Women,gold
+1,united-states, LEE SLEE Sunisa, GAR,Women's All-Around,gold
+2,united-states, CAREY JCAREY Jade, GAR,Women's Floor Exercise,gold
+3,united-states, United States, GAR,Women's Team,silver
+4,united-states, SKINNER MSKINNER Mykayla, GAR,Women's Vault,silver
+5,united-states, BILES SBILES Simone, GAR,Women's Balance Beam,bronze
+6,united-states, LEE SLEE Sunisa, GAR,Women's Uneven Bars,bronze
+7,united-states, United States of America, ATH,Men's 4 x 400m Relay,gold
+8,united-states, CROUSER RCROUSER Ryan, ATH,Men's Shot Put,gold
+9,united-states, United States of America, ATH,Women's 4 x 400m Relay,gold
+10,united-states, McLAUGHLIN SMcLAUGHLIN Sydney, ATH,Women's 400m Hurdles,gold
+11,united-states, MU AMU Athing, ATH,Women's 800m,gold
+12,united-states, ALLMAN VALLMAN Valarie, ATH,Women's Discus Throw,gold
+13,united-states, NAGEOTTE KNAGEOTTE Katie, ATH,Women's Pole Vault,gold
+14,united-states, KERLEY FKERLEY Fred, ATH,Men's 100m,silver
+15,united-states, HOLLOWAY GHOLLOWAY Grant, ATH,Men's 110m Hurdles,silver
+16,united-states, BEDNAREK KBEDNAREK Kenneth, ATH,Men's 200m,silver
+17,united-states, BENJAMIN RBENJAMIN Rai, ATH,Men's 400m Hurdles,silver
+18,united-states, NILSEN CNILSEN Christopher, ATH,Men's Pole Vault,silver
+19,united-states, KOVACS JKOVACS Joe, ATH,Men's Shot Put,silver
+20,united-states, HARRISON KHARRISON Kendra, ATH,Women's 100m Hurdles,silver
+21,united-states, FRERICHS CFRERICHS Courtney, ATH,Women's 3000m Steeplechase,silver
+22,united-states, United States of America, ATH,Women's 4 x 100m Relay,silver
+23,united-states, MUHAMMAD DMUHAMMAD Dalilah, ATH,Women's 400m Hurdles,silver
+24,united-states, REESE BREESE Brittney, ATH,Women's Long Jump,silver
+25,united-states, SAUNDERS RSAUNDERS Raven, ATH,Women's Shot Put,silver
+26,united-states, LYLES NLYLES Noah, ATH,Men's 200m,bronze
+27,united-states, CHELIMO PCHELIMO Paul, ATH,Men's 5000m,bronze
+28,united-states, THOMAS GTHOMAS Gabrielle, ATH,Women's 200m,bronze
+29,united-states, FELIX AFELIX Allyson, ATH,Women's 400m,bronze
+30,united-states, ROGERS RROGERS Raevyn, ATH,Women's 800m,bronze
+31,united-states, SEIDEL MSEIDEL Molly, ATH,Women's Marathon,bronze
+32,united-states, United States of America, ATH,4 x 400m Relay Mixed,bronze
+33,united-states, United States, BSB,Baseball,silver
+34,united-states, United States, BSB,Softball,silver
+35,united-states, United States, BKB,Men,gold
+36,united-states, United States, BKB,Women,gold
+37,united-states, April/Alix, VBV,Women,gold
+38,united-states, RAGAN DRAGAN Duke, BOX,Men's Feather (52-57kg),silver
+39,united-states, DAVIS KDAVIS Keyshawn, BOX,Men's Light (57-63kg),silver
+40,united-states, TORREZ JR RTORREZ JR Richard, BOX,Men's Super Heavy (+91kg),silver
+41,united-states, JONES OJONES Oshae, BOX,Women's Welter (64-69kg),bronze
+42,united-states, HARRISON NHARRISON Nevin, CSP,Women's Canoe Single 200m,gold
+43,united-states, ROBERTS HROBERTS Hannah, BMF,Women's Park,silver
+44,united-states, VALENTE JVALENTE Jennifer, CTR,Women's Omnium,gold
+45,united-states, United States, CTR,Women's Team Pursuit,bronze
+46,united-states, United States, DIV,Men's Synchronised 3m Springboard,silver
+47,united-states, United States, DIV,Women's Synchronised 10m Platform,silver
+48,united-states, PALMER KPALMER Krysta, DIV,Women's 3m Springboard,bronze
+49,united-states, United States, EQU,Dressage Team,silver
+50,united-states, United States, EQU,Jumping Team,silver
+51,united-states, KIEFER LKIEFER Lee, FEN,Women's Foil Individual,gold
+52,united-states, United States, FEN,Men's Foil Team,bronze
+53,united-states, United States, FBL,Women,bronze
+54,united-states, SCHAUFFELE XSCHAUFFELE Xander, GLF,Men's Individual Stroke Play,gold
+55,united-states, KORDA NKORDA Nelly, GLF,Women's Individual Stroke Play,gold
+56,united-states, TORRES GUTIERREZ ATORRES GUTIERREZ Ariel, KTE,Men's Kata,bronze
+57,united-states, SHANER WSHANER William, SHO,10m Air Rifle Men,gold
+58,united-states, HANCOCK VHANCOCK Vincent, SHO,Skeet Men,gold
+59,united-states, ENGLISH AENGLISH Amber, SHO,Skeet Women,gold
+60,united-states, BROWNING KBROWNING Kayle, SHO,Trap Women,silver
+61,united-states, United States of America 1, SHO,10m Air Rifle Mixed Team,silver
+62,united-states, United States of America 2, SHO,Trap Mixed Team,bronze
+63,united-states, JUNEAU CJUNEAU Cory, SKB,Men's Park,bronze
+64,united-states, EATON JEATON Jagger, SKB,Men's Street,bronze
+65,united-states, COLEMAN NCOLEMAN Nathaniel, CLB,Men's Combined,silver
+66,united-states, MOORE CMOORE Carissa, SRF,Women,gold
+67,united-states, DRESSEL CDRESSEL Caeleb, SWM,Men's 100m Butterfly,gold
+68,united-states, DRESSEL CDRESSEL Caeleb, SWM,Men's 100m Freestyle,gold
+69,united-states, FINKE RFINKE Robert, SWM,Men's 1500m Freestyle,gold
+70,united-states, United States, SWM,Men's 4 x 100m Freestyle Relay,gold
+71,united-states, United States, SWM,Men's 4 x 100m Medley Relay,gold
+72,united-states, KALISZ CKALISZ Chase, SWM,Men's 400m Individual Medley,gold
+73,united-states, DRESSEL CDRESSEL Caeleb, SWM,Men's 50m Freestyle,gold
+74,united-states, FINKE RFINKE Robert, SWM,Men's 800m Freestyle,gold
+75,united-states, JACOBY LJACOBY Lydia, SWM,Women's 100m Breaststroke,gold
+76,united-states, LEDECKY KLEDECKY Kathleen, SWM,Women's 1500m Freestyle,gold
+77,united-states, LEDECKY KLEDECKY Kathleen, SWM,Women's 800m Freestyle,gold
+78,united-states, MURPHY RMURPHY Ryan, SWM,Men's 200m Backstroke,silver
+79,united-states, LITHERLAND JLITHERLAND Jay, SWM,Men's 400m Individual Medley,silver
+80,united-states, SULLIVAN ESULLIVAN Erica, SWM,Women's 1500m Freestyle,silver
+81,united-states, KING LKING Lilly, SWM,Women's 200m Breaststroke,silver
+82,united-states, SMITH RSMITH Regan, SWM,Women's 200m Butterfly,silver
+83,united-states, WALSH AWALSH Alex, SWM,Women's 200m Individual Medley,silver
+84,united-states, United States, SWM,Women's 4 x 100m Medley Relay,silver
+85,united-states, United States, SWM,Women's 4 x 200m Freestyle Relay,silver
+86,united-states, LEDECKY KLEDECKY Kathleen, SWM,Women's 400m Freestyle,silver
+87,united-states, WEYANT EWEYANT Emma, SWM,Women's 400m Individual Medley,silver
+88,united-states, MURPHY RMURPHY Ryan, SWM,Men's 100m Backstroke,bronze
+89,united-states, SMITH KSMITH Kieran, SWM,Men's 400m Freestyle,bronze
+90,united-states, SMITH RSMITH Regan, SWM,Women's 100m Backstroke,bronze
+91,united-states, KING LKING Lilly, SWM,Women's 100m Breaststroke,bronze
+92,united-states, LAZOR ALAZOR Annie, SWM,Women's 200m Breaststroke,bronze
+93,united-states, FLICKINGER HFLICKINGER Hali, SWM,Women's 200m Butterfly,bronze
+94,united-states, DOUGLASS KDOUGLASS Kate, SWM,Women's 200m Individual Medley,bronze
+95,united-states, United States, SWM,Women's 4 x 100m Freestyle Relay,bronze
+96,united-states, FLICKINGER HFLICKINGER Hali, SWM,Women's 400m Individual Medley,bronze
+97,united-states, ZOLOTIC AZOLOTIC Anastasija, TKW,Women -57kg,gold
+98,united-states, United States, TRI,Mixed Relay,silver
+99,united-states, ZAFERES KZAFERES Katie, TRI,Women's Individual,bronze
+100,united-states, United States, VVO,Women,gold
+101,united-states, United States, WPO,Women,gold
+102,united-states, NYE KENYE Katherine Elizabeth, WLF,Women's 76kg,silver
+103,united-states, ROBLES SEROBLES Sarah Elizabeth, WLF,Women's +87kg,bronze
+104,united-states, STEVESON GDSTEVESON Gable Dan, WRE,Men's Freestyle 125kg,gold
+105,united-states, TAYLOR III DMTAYLOR III David Morris, WRE,Men's Freestyle 86kg,gold
+106,united-states, MENSAH STOCK TMMENSAH STOCK Tamyra Mariama, WRE,Women's Freestyle 68kg,gold
+107,united-states, SNYDER KFSNYDER Kyle Frederick, WRE,Men's Freestyle 97kg,silver
+108,united-states, GRAY AMGRAY Adeline Maria, WRE,Women's Freestyle 76kg,silver
+109,united-states, GILMAN TPGILMAN Thomas Patrick, WRE,Men's Freestyle 57kg,bronze
+110,united-states, DAKE KDDAKE Kyle Douglas, WRE,Men's Freestyle 74kg,bronze
+111,united-states, HILDEBRANDT SAHILDEBRANDT Sarah Ann, WRE,Women's Freestyle 50kg,bronze
+112,united-states, MAROULIS HLMAROULIS Helen Louise, WRE,Women's Freestyle 57kg,bronze
+113,china, China, BK3,Women,bronze
+114,china, ZOU JZOU Jingyuan, GAR,Men's Parallel Bars,gold
+115,china, LIU YLIU Yang, GAR,Men's Rings,gold
+116,china, GUAN CGUAN Chenchen, GAR,Women's Balance Beam,gold
+117,china, XIAO RXIAO Ruoteng, GAR,Men's All-Around,silver
+118,china, YOU HYOU Hao, GAR,Men's Rings,silver
+119,china, TANG XTANG Xijing, GAR,Women's Balance Beam,silver
+120,china, XIAO RXIAO Ruoteng, GAR,Men's Floor Exercise,bronze
+121,china, China, GAR,Men's Team,bronze
+122,china, China, SWA,Duet,silver
+123,china, China, SWA,Team,silver
+124,china, LIU SLIU Shiying, ATH,Women's Javelin Throw,gold
+125,china, GONG LGONG Lijiao, ATH,Women's Shot Put,gold
+126,china, ZHU YZHU Yaming, ATH,Men's Triple Jump,silver
+127,china, WANG ZWANG Zheng, ATH,Women's Hammer Throw,silver
+128,china, LIU HLIU Hong, ATH,Women's 20km Race Walk,bronze
+129,china, CHEN Yu FeiCHEN Yu Fei, BDM,Women's Singles,gold
+130,china, WANG Yi Lyu/HUANG Dong Ping, BDM,Mixed Doubles,gold
+131,china, LI Jun Hui/LIU Yu Chen, BDM,Men's Doubles,silver
+132,china, CHEN LCHEN Long, BDM,Men's Singles,silver
+133,china, CHEN Qing Chen/JIA Yi Fan, BDM,Women's Doubles,silver
+134,china, ZHENG Si Wei/HUANG Ya Qiong, BDM,Mixed Doubles,silver
+135,china, LI QLI Qian, BOX,Women's Middle (69-75kg),silver
+136,china, GU HGU Hong, BOX,Women's Welter (64-69kg),silver
+137,china, China, CSP,Women's Canoe Double 500m,gold
+138,china, China, CSP,Men's Canoe Double 1000m,silver
+139,china, LIU HLIU Hao, CSP,Men's Canoe Single 1000m,silver
+140,china, China, CTR,Women's Team Sprint,gold
+141,china, CAO YCAO Yuan, DIV,Men's 10m Platform,gold
+142,china, XIE SXIE Siyi, DIV,Men's 3m Springboard,gold
+143,china, China, DIV,Men's Synchronised 3m Springboard,gold
+144,china, QUAN HQUAN Hongchan, DIV,Women's 10m Platform,gold
+145,china, SHI TSHI Tingmao, DIV,Women's 3m Springboard,gold
+146,china, China, DIV,Women's Synchronised 10m Platform,gold
+147,china, China, DIV,Women's Synchronised 3m Springboard,gold
+148,china, YANG JYANG Jian, DIV,Men's 10m Platform,silver
+149,china, WANG ZWANG Zongyuan, DIV,Men's 3m Springboard,silver
+150,china, China, DIV,Men's Synchronised 10m Platform,silver
+151,china, CHEN YCHEN Yuxi, DIV,Women's 10m Platform,silver
+152,china, WANG HWANG Han, DIV,Women's 3m Springboard,silver
+153,china, SUN YSUN Yiwen, FEN,Women's Épée Individual,gold
+154,china, YIN XYIN Xiaoyan, KTE,Women's Kumite -61kg,silver
+155,china, GONG LGONG Li, KTE,Women's Kumite +61kg,bronze
+156,china, China, ROW,Women's Quadruple Sculls,gold
+157,china, China, ROW,Men's Double Sculls,bronze
+158,china, China, ROW,Women's Eight,bronze
+159,china, LU YLU Yunxiu, SAL,Women's Windsurfer - RS:X,gold
+160,china, BI KBI Kun, SAL,Men's Windsurfer - RS:X,bronze
+161,china, ZHANG CZHANG Changhong, SHO,50m Rifle 3 Positions Men,gold
+162,china, YANG QYANG Qian, SHO,10m Air Rifle Women,gold
+163,china, People's Republic of China 1, SHO,10m Air Pistol Mixed Team,gold
+164,china, People's Republic of China 1, SHO,10m Air Rifle Mixed Team,gold
+165,china, SHENG LSHENG Lihao, SHO,10m Air Rifle Men,silver
+166,china, PANG WPANG Wei, SHO,10m Air Pistol Men,bronze
+167,china, YANG HYANG Haoran, SHO,10m Air Rifle Men,bronze
+168,china, LI YLI Yuehong, SHO,25m Rapid Fire Pistol Men,bronze
+169,china, JIANG RJIANG Ranxin, SHO,10m Air Pistol Women,bronze
+170,china, XIAO JXIAO Jiaruixuan, SHO,25m Pistol Women,bronze
+171,china, WEI MWEI Meng, SHO,Skeet Women,bronze
+172,china, WANG SWANG Shun, SWM,Men's 200m Individual Medley,gold
+173,china, ZHANG YZHANG Yufei, SWM,Women's 200m Butterfly,gold
+174,china, China, SWM,Women's 4 x 200m Freestyle Relay,gold
+175,china, ZHANG YZHANG Yufei, SWM,Women's 100m Butterfly,silver
+176,china, China, SWM,Mixed 4 x 100m Medley Relay,silver
+177,china, LI BLI Bingjie, SWM,Women's 400m Freestyle,bronze
+178,china, MA LMA Long, TTE,Men's Singles,gold
+179,china, China, TTE,Men's Team,gold
+180,china, CHEN MCHEN Meng, TTE,Women's Singles,gold
+181,china, China, TTE,Women's Team,gold
+182,china, FAN ZFAN Zhendong, TTE,Men's Singles,silver
+183,china, SUN YSUN Yingsha, TTE,Women's Singles,silver
+184,china, XU Xin / LIU Shiwen, TTE,Mixed Doubles,silver
+185,china, ZHAO SZHAO Shuai, TKW,Men -68kg,bronze
+186,china, ZHU XZHU Xueying, GTR,Women,gold
+187,china, DONG DDONG Dong, GTR,Men,silver
+188,china, LIU LLIU Lingling, GTR,Women,silver
+189,china, LI FLI Fabin, WLF,Men's 61kg,gold
+190,china, CHEN LCHEN Lijun, WLF,Men's 67kg,gold
+191,china, SHI ZSHI Zhiyong, WLF,Men's 73kg,gold
+192,china, LYU XLYU Xiaojun, WLF,Men's 81kg,gold
+193,china, LI WLI Wenwen, WLF,Women's +87kg,gold
+194,china, HOU ZHOU Zhihui, WLF,Women's 49kg,gold
+195,china, WANG ZWANG Zhouyu, WLF,Women's 87kg,gold
+196,china, LIAO QLIAO Qiuyun, WLF,Women's 55kg,silver
+197,china, SUN YSUN Yanan, WRE,Women's Freestyle 50kg,silver
+198,china, PANG QPANG Qianyu, WRE,Women's Freestyle 53kg,silver
+199,china, WALIHAN SWALIHAN Sailike, WRE,Men's Greco-Roman 60kg,bronze
+200,china, ZHOU QZHOU Qian, WRE,Women's Freestyle 76kg,bronze
+201,japan, FURUKAWA TFURUKAWA Takaharu, ARC,Men's Individual,bronze
+202,japan, Japan, ARC,Men's Team,bronze
+203,japan, HASHIMOTO DHASHIMOTO Daiki, GAR,Men's All-Around,gold
+204,japan, HASHIMOTO DHASHIMOTO Daiki, GAR,Men's Horizontal Bar,gold
+205,japan, Japan, GAR,Men's Team,silver
+206,japan, KAYA KKAYA Kazuma, GAR,Men's Pommel Horse,bronze
+207,japan, MURAKAMI MMURAKAMI Mai, GAR,Women's Floor Exercise,bronze
+208,japan, IKEDA KIKEDA Koki, ATH,Men's 20km Race Walk,silver
+209,japan, YAMANISHI TYAMANISHI Toshikazu, ATH,Men's 20km Race Walk,bronze
+210,japan, WATANABE Yuta/HIGASHINO Arisa, BDM,Mixed Doubles,bronze
+211,japan, Japan, BSB,Baseball,gold
+212,japan, Japan, BSB,Softball,gold
+213,japan, Japan, BKB,Women,silver
+214,japan, IRIE SIRIE Sena, BOX,Women's Feather (54-57kg),gold
+215,japan, TANAKA RTANAKA Ryomei, BOX,Men's Fly (48-52kg),bronze
+216,japan, NAMIKI TNAMIKI Tsukimi, BOX,Women's Fly (48-51kg),bronze
+217,japan, KAJIHARA YKAJIHARA Yumi, CTR,Women's Omnium,silver
+218,japan, Japan, FEN,Men's Épée Team,gold
+219,japan, INAMI MINAMI Mone, GLF,Women's Individual Stroke Play,silver
+220,japan, WOLF AWOLF Aaron, JUD,Men -100 kg,gold
+221,japan, TAKATO NTAKATO Naohisa, JUD,Men -60 kg,gold
+222,japan, ABE HABE Hifumi, JUD,Men -66 kg,gold
+223,japan, ONO SONO Shohei, JUD,Men -73 kg,gold
+224,japan, NAGASE TNAGASE Takanori, JUD,Men -81 kg,gold
+225,japan, SONE ASONE Akira, JUD,Women +78 kg,gold
+226,japan, ABE UABE Uta, JUD,Women -52 kg,gold
+227,japan, ARAI CARAI Chizuru, JUD,Women -70 kg,gold
+228,japan, HAMADA SHAMADA Shori, JUD,Women -78 kg,gold
+229,japan, TONAKI FTONAKI Funa, JUD,Women -48 kg,silver
+230,japan, Japan, JUD,Mixed Team,silver
+231,japan, YOSHIDA TYOSHIDA Tsukasa, JUD,Women -57 kg,bronze
+232,japan, KIYUNA RKIYUNA Ryo, KTE,Men's Kata,gold
+233,japan, SHIMIZU KSHIMIZU Kiyou, KTE,Women's Kata,silver
+234,japan, ARAGA RARAGA Ryutaro, KTE,Men's Kumite +75kg,bronze
+235,japan, HORIGOME YHORIGOME Yuto, SKB,Men's Street,gold
+236,japan, YOSOZUMI SYOSOZUMI Sakura, SKB,Women's Park,gold
+237,japan, NISHIYA MNISHIYA Momiji, SKB,Women's Street,gold
+238,japan, HIRAKI KHIRAKI Kokona, SKB,Women's Park,silver
+239,japan, NAKAYAMA FNAKAYAMA Funa, SKB,Women's Street,bronze
+240,japan, NONAKA MNONAKA Miho, CLB,Women's Combined,silver
+241,japan, NOGUCHI ANOGUCHI Akiyo, CLB,Women's Combined,bronze
+242,japan, IGARASHI KIGARASHI Kanoa, SRF,Men,silver
+243,japan, TSUZUKI ATSUZUKI Amuro, SRF,Women,bronze
+244,japan, OHASHI YOHASHI Yui, SWM,Women's 200m Individual Medley,gold
+245,japan, OHASHI YOHASHI Yui, SWM,Women's 400m Individual Medley,gold
+246,japan, HONDA THONDA Tomoru, SWM,Men's 200m Butterfly,silver
+247,japan, MIZUTANI Jun / ITO Mima, TTE,Mixed Doubles,gold
+248,japan, Japan, TTE,Women's Team,silver
+249,japan, Japan, TTE,Men's Team,bronze
+250,japan, ITO MITO Mima, TTE,Women's Singles,bronze
+251,japan, ANDOH MANDOH Mikiko, WLF,Women's 59kg,bronze
+252,japan, OTOGURO TOTOGURO Takuto, WRE,Men's Freestyle 65kg,gold
+253,japan, SUSAKI YSUSAKI Yui, WRE,Women's Freestyle 50kg,gold
+254,japan, MUKAIDA MMUKAIDA Mayu, WRE,Women's Freestyle 53kg,gold
+255,japan, KAWAI RKAWAI Risako, WRE,Women's Freestyle 57kg,gold
+256,japan, KAWAI YKAWAI Yukako, WRE,Women's Freestyle 62kg,gold
+257,japan, FUMITA KFUMITA Kenichiro, WRE,Men's Greco-Roman 60kg,silver
+258,japan, YABIKU SYABIKU Shohei, WRE,Men's Greco-Roman 77kg,bronze
+259,great-britain, WHITLOCK MWHITLOCK Max, GAR,Men's Pommel Horse,gold
+260,great-britain, Great Britain, GAR,Women's Team,bronze
+261,great-britain, Great Britain, ATH,Men's 4 x 100m Relay,silver
+262,great-britain, MUIR LMUIR Laura, ATH,Women's 1500m,silver
+263,great-britain, HODGKINSON KHODGKINSON Keely, ATH,Women's 800m,silver
+264,great-britain, KERR JKERR Josh, ATH,Men's 1500m,bronze
+265,great-britain, Great Britain, ATH,Women's 4 x 100m Relay,bronze
+266,great-britain, BRADSHAW HBRADSHAW Holly, ATH,Women's Pole Vault,bronze
+267,great-britain, YAFAI GYAFAI Galal, BOX,Men's Fly (48-52kg),gold
+268,great-britain, PRICE LPRICE Lauren, BOX,Women's Middle (69-75kg),gold
+269,great-britain, WHITTAKER BWHITTAKER Benjamin, BOX,Men's Light Heavy (75-81kg),silver
+270,great-britain, McCORMACK PMcCORMACK Pat, BOX,Men's Welter (63-69kg),silver
+271,great-britain, CLARKE FCLARKE Frazer, BOX,Men's Super Heavy (+91kg),bronze
+272,great-britain, ARTINGSTALL KARTINGSTALL Karriss, BOX,Women's Feather (54-57kg),bronze
+273,great-britain, FRANKLIN MFRANKLIN Mallory, CSL,Women's Canoe,silver
+274,great-britain, HEATH LHEATH Liam, CSP,Men's Kayak Single 200m,bronze
+275,great-britain, WORTHINGTON CWORTHINGTON Charlotte, BMF,Women's Park,gold
+276,great-britain, BROOKS DBROOKS Declan, BMF,Men's Park,bronze
+277,great-britain, SHRIEVER BSHRIEVER Bethany, BMX,Women,gold
+278,great-britain, WHYTE KWHYTE Kye, BMX,Men,silver
+279,great-britain, PIDCOCK TPIDCOCK Thomas, MTB,Men's Cross-country,gold
+280,great-britain, KENNY JKENNY Jason, CTR,Men's Keirin,gold
+281,great-britain, WALLS MWALLS Matthew, CTR,Men's Omnium,gold
+282,great-britain, Great Britain, CTR,Women's Madison,gold
+283,great-britain, Great Britain, CTR,Men's Madison,silver
+284,great-britain, Great Britain, CTR,Men's Team Sprint,silver
+285,great-britain, Great Britain, CTR,Women's Team Pursuit,silver
+286,great-britain, CARLIN JCARLIN Jack, CTR,Men's Sprint,bronze
+287,great-britain, Great Britain, DIV,Men's Synchronised 10m Platform,gold
+288,great-britain, DALEY TDALEY Thomas, DIV,Men's 10m Platform,bronze
+289,great-britain, LAUGHER JLAUGHER Jack, DIV,Men's 3m Springboard,bronze
+290,great-britain, Great Britain, EQU,Eventing Team,gold
+291,great-britain, MAHER BMAHER Ben, EQU,Jumping Individual,gold
+292,great-britain, McEWEN TMcEWEN Tom, EQU,Eventing Individual,silver
+293,great-britain, DUJARDIN CDUJARDIN Charlotte, EQU,Dressage Individual,bronze
+294,great-britain, Great Britain, EQU,Dressage Team,bronze
+295,great-britain, Great Britain, HOC,Women,bronze
+296,great-britain, GILES CGILES Chelsie, JUD,Women -52 kg,bronze
+297,great-britain, CHOONG JCHOONG Joseph, MPN,Men's Individual,gold
+298,great-britain, FRENCH KFRENCH Kate, MPN,Women's Individual,gold
+299,great-britain, Great Britain, ROW,Men's Quadruple Sculls,silver
+300,great-britain, Great Britain, ROW,Men's Eight,bronze
+301,great-britain, SCOTT GSCOTT Giles, SAL,Men's One Person Dinghy (Heavyweight) - Finn,gold
+302,great-britain, Great Britain, SAL,Men's Skiff - 49er,gold
+303,great-britain, Great Britain, SAL,Women's Two Person Dinghy - 470,gold
+304,great-britain, Great Britain, SAL,Mixed Multihull - Nacra 17 Foiling,silver
+305,great-britain, WILSON EWILSON Emma, SAL,Women's Windsurfer - RS:X,bronze
+306,great-britain, COWARD HOLLEY MJCOWARD HOLLEY Matthew John, SHO,Trap Men,bronze
+307,great-britain, BROWN SBROWN Sky, SKB,Women's Park,bronze
+308,great-britain, PEATY APEATY Adam, SWM,Men's 100m Breaststroke,gold
+309,great-britain, DEAN TDEAN Tom, SWM,Men's 200m Freestyle,gold
+310,great-britain, Great Britain, SWM,Men's 4 x 200m Freestyle Relay,gold
+311,great-britain, Great Britain, SWM,Mixed 4 x 100m Medley Relay,gold
+312,great-britain, SCOTT DSCOTT Duncan, SWM,Men's 200m Freestyle,silver
+313,great-britain, SCOTT DSCOTT Duncan, SWM,Men's 200m Individual Medley,silver
+314,great-britain, Great Britain, SWM,Men's 4 x 100m Medley Relay,silver
+315,great-britain, GREENBANK LGREENBANK Luke, SWM,Men's 200m Backstroke,bronze
+316,great-britain, SINDEN BSINDEN Bradly, TKW,Men -68kg,silver
+317,great-britain, WILLIAMS LWILLIAMS Lauren, TKW,Women -67kg,silver
+318,great-britain, WALKDEN BWALKDEN Bianca, TKW,Women +67kg,bronze
+319,great-britain, PAGE BPAGE Bryony, GTR,Women,bronze
+320,great-britain, Great Britain, TRI,Mixed Relay,gold
+321,great-britain, YEE AYEE Alex, TRI,Men's Individual,silver
+322,great-britain, TAYLOR-BROWN GTAYLOR-BROWN Georgia, TRI,Women's Individual,silver
+323,great-britain, CAMPBELL EJCAMPBELL Emily Jade, WLF,Women's +87kg,silver
+324,roc, ROC, BK3,Men,silver
+325,roc, ROC, BK3,Women,silver
+326,roc, OSIPOVA EOSIPOVA Elena, ARC,Women's Individual,silver
+327,roc, ROC, ARC,Women's Team,silver
+328,roc, ROC, GAR,Men's Team,gold
+329,roc, ROC, GAR,Women's Team,gold
+330,roc, ABLIAZIN DABLIAZIN Denis, GAR,Men's Vault,silver
+331,roc, ILIANKOVA AILIANKOVA Anastasiia, GAR,Women's Uneven Bars,silver
+332,roc, NAGORNYY NNAGORNYY Nikita, GAR,Men's All-Around,bronze
+333,roc, NAGORNYY NNAGORNYY Nikita, GAR,Men's Horizontal Bar,bronze
+334,roc, MELNIKOVA AMELNIKOVA Angelina, GAR,Women's All-Around,bronze
+335,roc, MELNIKOVA AMELNIKOVA Angelina, GAR,Women's Floor Exercise,bronze
+336,roc, ROC, SWA,Duet,gold
+337,roc, ROC, SWA,Team,gold
+338,roc, LASITSKENE MLASITSKENE Mariya, ATH,Women's High Jump,gold
+339,roc, SIDOROVA ASIDOROVA Anzhelika, ATH,Women's Pole Vault,silver
+340,roc, Krasilnikov/Stoyanovskiy, VBV,Men,silver
+341,roc, BATYRGAZIEV ABATYRGAZIEV Albert, BOX,Men's Feather (52-57kg),gold
+342,roc, GADZHIMAGOMEDOV MGADZHIMAGOMEDOV Muslim, BOX,Men's Heavy (81-91kg),silver
+343,roc, KHATAEV IKHATAEV Imam, BOX,Men's Light Heavy (75-81kg),bronze
+344,roc, BAKSHI GBAKSHI Gleb, BOX,Men's Middle (69-75kg),bronze
+345,roc, ZAMKOVOI AZAMKOVOI Andrei, BOX,Men's Welter (63-69kg),bronze
+346,roc, MAGOMEDALIEVA ZMAGOMEDALIEVA Zenfira, BOX,Women's Middle (69-75kg),bronze
+347,roc, ROC, CTR,Women's Madison,bronze
+348,roc, ROC, CTR,Women's Team Sprint,bronze
+349,roc, ROC, DIV,Men's Synchronised 10m Platform,bronze
+350,roc, ROC, FEN,Women's Foil Team,gold
+351,roc, POZDNIAKOVA SPOZDNIAKOVA Sofia, FEN,Women's Sabre Individual,gold
+352,roc, ROC, FEN,Women's Sabre Team,gold
+353,roc, ROC, FEN,Men's Épée Team,silver
+354,roc, ROC, FEN,Men's Foil Team,silver
+355,roc, DERIGLAZOVA IDERIGLAZOVA Inna, FEN,Women's Foil Individual,silver
+356,roc, VELIKAYA SVELIKAYA Sofya, FEN,Women's Sabre Individual,silver
+357,roc, KOROBEYNIKOVA LKOROBEYNIKOVA Larisa, FEN,Women's Foil Individual,bronze
+358,roc, ROC, HBL,Women,silver
+359,roc, BASHAEV TBASHAEV Tamerlan, JUD,Men +100 kg,bronze
+360,roc, ILIASOV NILIASOV Niiaz, JUD,Men -100 kg,bronze
+361,roc, TAIMAZOVA MTAIMAZOVA Madina, JUD,Women -70 kg,bronze
+362,roc, ROC, GRY,Group All-Around,silver
+363,roc, AVERINA DAVERINA Dina, GRY,Individual All-Around,silver
+364,roc, ROC, ROW,Women's Pair,silver
+365,roc, PRAKATSEN HPRAKATSEN Hanna, ROW,Women's Single Sculls,silver
+366,roc, BATSARASHKINA VBATSARASHKINA Vitalina, SHO,10m Air Pistol Women,gold
+367,roc, BATSARASHKINA VBATSARASHKINA Vitalina, SHO,25m Pistol Women,gold
+368,roc, KAMENSKIY SKAMENSKIY Sergey, SHO,50m Rifle 3 Positions Men,silver
+369,roc, GALASHINA AGALASHINA Anastasiia, SHO,10m Air Rifle Women,silver
+370,roc, ZYKOVA YZYKOVA Yulia, SHO,50m Rifle 3 Positions Women,silver
+371,roc, ROC 1, SHO,10m Air Pistol Mixed Team,silver
+372,roc, KARIMOVA YKARIMOVA Yulia, SHO,50m Rifle 3 Positions Women,bronze
+373,roc, ROC 2, SHO,10m Air Rifle Mixed Team,bronze
+374,roc, RYLOV ERYLOV Evgeny, SWM,Men's 100m Backstroke,gold
+375,roc, RYLOV ERYLOV Evgeny, SWM,Men's 200m Backstroke,gold
+376,roc, KOLESNIKOV KKOLESNIKOV Kliment, SWM,Men's 100m Backstroke,silver
+377,roc, ROC, SWM,Men's 4 x 200m Freestyle Relay,silver
+378,roc, KOLESNIKOV KKOLESNIKOV Kliment, SWM,Men's 100m Freestyle,bronze
+379,roc, LARIN VLARIN Vladislav, TKW,Men +80kg,gold
+380,roc, KHRAMTCOV MKHRAMTCOV Maksim, TKW,Men -80kg,gold
+381,roc, MININA TMININA Tatiana, TKW,Women -57kg,silver
+382,roc, ARTAMONOV MARTAMONOV Mikhail, TKW,Men -58kg,bronze
+383,roc, Pavlyuchenkova / Rublev, TEN,Mixed Doubles,gold
+384,roc, KHACHANOV KKHACHANOV Karen, TEN,Men's Singles,silver
+385,roc, Vesnina / Karatsev, TEN,Mixed Doubles,silver
+386,roc, ROC, VVO,Men,silver
+387,roc, UGUEV ZUGUEV Zavur, WRE,Men's Freestyle 57kg,gold
+388,roc, SIDAKOV ZSIDAKOV Zaurbek, WRE,Men's Freestyle 74kg,gold
+389,roc, SADULAEV ASADULAEV Abdulrashid, WRE,Men's Freestyle 97kg,gold
+390,roc, EVLOEV MEVLOEV Musa, WRE,Men's Greco-Roman 97kg,gold
+391,roc, RASHIDOV GRASHIDOV Gadzhimurad, WRE,Men's Freestyle 65kg,bronze
+392,roc, NAIFONOV ANAIFONOV Artur, WRE,Men's Freestyle 86kg,bronze
+393,roc, SEMENOV SSEMENOV Sergei, WRE,Men's Greco-Roman 130kg,bronze
+394,roc, EMELIN SEMELIN Sergey, WRE,Men's Greco-Roman 60kg,bronze
+395,australia, McDERMOTT NMcDERMOTT Nicola, ATH,Women's High Jump,silver
+396,australia, MOLONEY AMOLONEY Ashley, ATH,Men's Decathlon,bronze
+397,australia, BARBER KLBARBER Kelsey-Lee, ATH,Women's Javelin Throw,bronze
+398,australia, Australia, BKB,Men,bronze
+399,australia, Artacho Del Solar/Clancy, VBV,Women,silver
+400,australia, GARSIDE HGARSIDE Harry, BOX,Men's Light (57-63kg),bronze
+401,australia, FOX JFOX Jessica, CSL,Women's Canoe,gold
+402,australia, FOX JFOX Jessica, CSL,Women's Kayak,bronze
+403,australia, Australia, CSP,Men's Kayak Double 1000m,gold
+404,australia, MARTIN LMARTIN Logan, BMF,Men's Park,gold
+405,australia, DENNIS RDENNIS Rohan, CRD,Men's Individual Time Trial,bronze
+406,australia, Australia, CTR,Men's Team Pursuit,bronze
+407,australia, WU MWU Melissa, DIV,Women's 10m Platform,bronze
+408,australia, Australia, EQU,Eventing Team,silver
+409,australia, HOY AHOY Andrew, EQU,Eventing Individual,bronze
+410,australia, Australia, HOC,Men,silver
+411,australia, LEE KLEE Kareena, OWS,Women's 10km,bronze
+412,australia, Australia, ROW,Men's Four,gold
+413,australia, Australia, ROW,Women's Four,gold
+414,australia, Australia, ROW,Men's Quadruple Sculls,bronze
+415,australia, Australia, ROW,Women's Quadruple Sculls,bronze
+416,australia, WEARN MWEARN Matt, SAL,Men's One Person Dinghy - Laser,gold
+417,australia, Australia, SAL,Men's Two Person Dinghy - 470,gold
+418,australia, PALMER KPALMER Keegan, SKB,Men's Park,gold
+419,australia, WRIGHT OWRIGHT Owen, SRF,Men,bronze
+420,australia, STUBBLETY-COOK ISTUBBLETY-COOK Izaac, SWM,Men's 200m Breaststroke,gold
+421,australia, McKEOWN KMcKEOWN Kaylee, SWM,Women's 100m Backstroke,gold
+422,australia, McKEON EMcKEON Emma, SWM,Women's 100m Freestyle,gold
+423,australia, McKEOWN KMcKEOWN Kaylee, SWM,Women's 200m Backstroke,gold
+424,australia, TITMUS ATITMUS Ariarne, SWM,Women's 200m Freestyle,gold
+425,australia, Australia, SWM,Women's 4 x 100m Freestyle Relay,gold
+426,australia, Australia, SWM,Women's 4 x 100m Medley Relay,gold
+427,australia, TITMUS ATITMUS Ariarne, SWM,Women's 400m Freestyle,gold
+428,australia, McKEON EMcKEON Emma, SWM,Women's 50m Freestyle,gold
+429,australia, CHALMERS KCHALMERS Kyle, SWM,Men's 100m Freestyle,silver
+430,australia, McLOUGHLIN J.McLOUGHLIN Jack, SWM,Men's 400m Freestyle,silver
+431,australia, TITMUS ATITMUS Ariarne, SWM,Women's 800m Freestyle,silver
+432,australia, Australia, SWM,Men's 4 x 100m Freestyle Relay,bronze
+433,australia, Australia, SWM,Men's 4 x 200m Freestyle Relay,bronze
+434,australia, SMITH BSMITH Brendon, SWM,Men's 400m Individual Medley,bronze
+435,australia, McKEON EMcKEON Emma, SWM,Women's 100m Butterfly,bronze
+436,australia, CAMPBELL CCAMPBELL Cate, SWM,Women's 100m Freestyle,bronze
+437,australia, SEEBOHM ESEEBOHM Emily, SWM,Women's 200m Backstroke,bronze
+438,australia, Australia, SWM,Women's 4 x 200m Freestyle Relay,bronze
+439,australia, Australia, SWM,Mixed 4 x 100m Medley Relay,bronze
+440,australia, Barty / Peers, TEN,Mixed Doubles,bronze
+441,netherlands, Netherlands, ARC,Mixed Team,silver
+442,netherlands, HASSAN SHASSAN Sifan, ATH,"Women's 10,000m",gold
+443,netherlands, HASSAN SHASSAN Sifan, ATH,Women's 5000m,gold
+444,netherlands, Netherlands, ATH,Men's 4 x 400m Relay,silver
+445,netherlands, NAGEEYE ANAGEEYE Abdi, ATH,Men's Marathon,silver
+446,netherlands, VETTER AVETTER Anouk, ATH,Women's Heptathlon,silver
+447,netherlands, HASSAN SHASSAN Sifan, ATH,Women's 1500m,bronze
+448,netherlands, BOL FBOL Femke, ATH,Women's 400m Hurdles,bronze
+449,netherlands, OOSTERWEGEL EOOSTERWEGEL Emma, ATH,Women's Heptathlon,bronze
+450,netherlands, FONTIJN NFONTIJN Nouchka, BOX,Women's Middle (69-75kg),bronze
+451,netherlands, KIMMANN NKIMMANN Niek, BMX,Men,gold
+452,netherlands, SMULDERS MSMULDERS Merel, BMX,Women,bronze
+453,netherlands, van VLEUTEN Avan VLEUTEN Annemiek, CRD,Women's Individual Time Trial,gold
+454,netherlands, DUMOULIN TDUMOULIN Tom, CRD,Men's Individual Time Trial,silver
+455,netherlands, van VLEUTEN Avan VLEUTEN Annemiek, CRD,Women's Road Race,silver
+456,netherlands, van der BREGGEN Avan der BREGGEN Anna, CRD,Women's Individual Time Trial,bronze
+457,netherlands, LAVREYSEN HLAVREYSEN Harrie, CTR,Men's Sprint,gold
+458,netherlands, Netherlands, CTR,Men's Team Sprint,gold
+459,netherlands, BRASPENNINCX SBRASPENNINCX Shanne, CTR,Women's Keirin,gold
+460,netherlands, HOOGLAND JHOOGLAND Jeffrey, CTR,Men's Sprint,silver
+461,netherlands, LAVREYSEN HLAVREYSEN Harrie, CTR,Men's Keirin,bronze
+462,netherlands, WILD KWILD Kirsten, CTR,Women's Omnium,bronze
+463,netherlands, van der VLEUTEN Mvan der VLEUTEN Maikel, EQU,Jumping Individual,bronze
+464,netherlands, Netherlands, HOC,Women,gold
+465,netherlands, van DIJKE Svan DIJKE Sanne, JUD,Women -70 kg,bronze
+466,netherlands, van ROUWENDAAL Svan ROUWENDAAL Sharon, OWS,Women's 10km,silver
+467,netherlands, Netherlands, ROW,Men's Quadruple Sculls,gold
+468,netherlands, Netherlands, ROW,Men's Double Sculls,silver
+469,netherlands, Netherlands, ROW,Women's Four,silver
+470,netherlands, Netherlands, ROW,Lightweight Women's Double Sculls,bronze
+471,netherlands, Netherlands, ROW,Women's Double Sculls,bronze
+472,netherlands, BADLOE KBADLOE Kiran, SAL,Men's Windsurfer - RS:X,gold
+473,netherlands, BOUWMEESTER MBOUWMEESTER Marit, SAL,Women's One Person Dinghy - Laser Radial,bronze
+474,netherlands, Netherlands, SAL,Women's Skiff - 49er FX,bronze
+475,netherlands, KAMMINGA AKAMMINGA Arno, SWM,Men's 100m Breaststroke,silver
+476,netherlands, KAMMINGA AKAMMINGA Arno, SWM,Men's 200m Breaststroke,silver
+477,france, MAYER KMAYER Kevin, ATH,Men's Decathlon,silver
+478,france, France, BKB,Men,silver
+479,france, France, BKB,Women,bronze
+480,france, France, CTR,Men's Madison,bronze
+481,france, France, CTR,Men's Team Sprint,bronze
+482,france, France, EQU,Eventing Team,bronze
+483,france, CANNONE RCANNONE Romain, FEN,Men's Épée Individual,gold
+484,france, France, FEN,Men's Foil Team,gold
+485,france, France, FEN,Women's Foil Team,silver
+486,france, France, FEN,Women's Sabre Team,silver
+487,france, BRUNET MBRUNET Manon, FEN,Women's Sabre Individual,bronze
+488,france, France, HBL,Men,gold
+489,france, France, HBL,Women,gold
+490,france, AGBEGNENOU CAGBEGNENOU Clarisse, JUD,Women -63 kg,gold
+491,france, France, JUD,Mixed Team,gold
+492,france, BUCHARD ABUCHARD Amandine, JUD,Women -52 kg,silver
+493,france, CYSIQUE SLCYSIQUE Sarah Leonie, JUD,Women -57 kg,silver
+494,france, MALONGA MMALONGA Madeleine, JUD,Women -78 kg,silver
+495,france, RINER TRINER Teddy, JUD,Men +100 kg,bronze
+496,france, MKHEIDZE LMKHEIDZE Luka, JUD,Men -60 kg,bronze
+497,france, DICKO RDICKO Romane, JUD,Women +78 kg,bronze
+498,france, da COSTA Sda COSTA Steven, KTE,Men's Kumite -67kg,gold
+499,france, France, ROW,Men's Double Sculls,gold
+500,france, France, ROW,Lightweight Women's Double Sculls,silver
+501,france, France, RUG,Women,silver
+502,france, GOYARD TGOYARD Thomas, SAL,Men's Windsurfer - RS:X,silver
+503,france, PICON CPICON Charline, SAL,Women's Windsurfer - RS:X,silver
+504,france, France, SAL,Women's Two Person Dinghy - 470,bronze
+505,france, QUIQUAMPOIX JQUIQUAMPOIX Jean, SHO,25m Rapid Fire Pistol Men,gold
+506,france, MANAUDOU FMANAUDOU Florent, SWM,Men's 50m Freestyle,silver
+507,france, LAURIN ALAURIN Althea, TKW,Women +67kg,bronze
+508,france, France, TRI,Mixed Relay,bronze
+509,france, France, VVO,Men,gold
+510,germany, Germany, ARC,Women's Team,bronze
+511,germany, DAUSER LDAUSER Lukas, GAR,Men's Parallel Bars,silver
+512,germany, MIHAMBO MMIHAMBO Malaika, ATH,Women's Long Jump,gold
+513,germany, HILBERT JHILBERT Jonathan, ATH,Men's 50km Race Walk,silver
+514,germany, PUDENZ KPUDENZ Kristin, ATH,Women's Discus Throw,silver
+515,germany, FUNK RFUNK Ricarda, CSL,Women's Kayak,gold
+516,germany, TASIADIS STASIADIS Sideris, CSL,Men's Canoe,bronze
+517,germany, AIGNER HAIGNER Hannes, CSL,Men's Kayak,bronze
+518,germany, HERZOG AHERZOG Andrea, CSL,Women's Canoe,bronze
+519,germany, Germany, CSP,Men's Kayak Four 500m,gold
+520,germany, Germany, CSP,Men's Kayak Double 1000m,silver
+521,germany, Germany, CSP,Men's Canoe Double 1000m,bronze
+522,germany, Germany, CTR,Women's Team Pursuit,gold
+523,germany, Germany, CTR,Women's Team Sprint,silver
+524,germany, Germany, DIV,Men's Synchronised 3m Springboard,bronze
+525,germany, Germany, DIV,Women's Synchronised 3m Springboard,bronze
+526,germany, von BREDOW-WERNDL Jessicavon BREDOW-WERNDL Jessica, EQU,Dressage Individual,gold
+527,germany, Germany, EQU,Dressage Team,gold
+528,germany, KRAJEWSKI JKRAJEWSKI Julia, EQU,Eventing Individual,gold
+529,germany, WERTH IWERTH Isabell, EQU,Dressage Individual,silver
+530,germany, TRIPPEL ETRIPPEL Eduard, JUD,Men -90 kg,silver
+531,germany, WAGNER AMWAGNER Anna-Maria, JUD,Women -78 kg,bronze
+532,germany, Germany, JUD,Mixed Team,bronze
+533,germany, WELLBROCK FWELLBROCK Florian, OWS,Men's 10km,gold
+534,germany, Germany, ROW,Lightweight Men's Double Sculls,silver
+535,germany, Germany, ROW,Men's Eight,silver
+536,germany, Germany, SAL,Women's Skiff - 49er FX,silver
+537,germany, Germany, SAL,Men's Skiff - 49er,bronze
+538,germany, Germany, SAL,Mixed Multihull - Nacra 17 Foiling,bronze
+539,germany, WELLBROCK FWELLBROCK Florian, SWM,Men's 1500m Freestyle,bronze
+540,germany, KOHLER SKOHLER Sarah, SWM,Women's 1500m Freestyle,bronze
+541,germany, Germany, TTE,Men's Team,silver
+542,germany, OVTCHAROV DOVTCHAROV Dimitrij, TTE,Men's Singles,bronze
+543,germany, ZVEREV AZVEREV Alexander, TEN,Men's Singles,gold
+544,germany, ROTTER FOCKEN AROTTER FOCKEN Aline, WRE,Women's Freestyle 76kg,gold
+545,germany, STAEBLER FSTAEBLER Frank, WRE,Men's Greco-Roman 67kg,bronze
+546,germany, KUDLA DMKUDLA Denis Maksymilian, WRE,Men's Greco-Roman 87kg,bronze
+547,italy, NESPOLI MNESPOLI Mauro, ARC,Men's Individual,silver
+548,italy, BOARI LBOARI Lucilla, ARC,Women's Individual,bronze
+549,italy, FERRARI VFERRARI Vanessa, GAR,Women's Floor Exercise,silver
+550,italy, JACOBS LMJACOBS Lamont Marcell, ATH,Men's 100m,gold
+551,italy, STANO MSTANO Massimo, ATH,Men's 20km Race Walk,gold
+552,italy, Italy, ATH,Men's 4 x 100m Relay,gold
+553,italy, TAMBERI GTAMBERI Gianmarco, ATH,Men's High Jump,gold
+554,italy, PALMISANO APALMISANO Antonella, ATH,Women's 20km Race Walk,gold
+555,italy, TESTA ITESTA Irma, BOX,Women's Feather (54-57kg),bronze
+556,italy, RIZZA MRIZZA Manfredi, CSP,Men's Kayak Single 200m,silver
+557,italy, LONGO BORGHINI ELONGO BORGHINI Elisa, CRD,Women's Road Race,bronze
+558,italy, Italy, CTR,Men's Team Pursuit,gold
+559,italy, VIVIANI EVIVIANI Elia, CTR,Men's Omnium,bronze
+560,italy, GAROZZO DGAROZZO Daniele, FEN,Men's Foil Individual,silver
+561,italy, SAMELE LSAMELE Luigi, FEN,Men's Sabre Individual,silver
+562,italy, Italy, FEN,Men's Sabre Team,silver
+563,italy, Italy, FEN,Women's Épée Team,bronze
+564,italy, Italy, FEN,Women's Foil Team,bronze
+565,italy, GIUFFRIDA OGIUFFRIDA Odette, JUD,Women -52 kg,bronze
+566,italy, CENTRACCHIO MCENTRACCHIO Maria, JUD,Women -63 kg,bronze
+567,italy, BUSA LBUSA Luigi, KTE,Men's Kumite -75kg,gold
+568,italy, BOTTARO VBOTTARO Viviana, KTE,Women's Kata,bronze
+569,italy, PALTRINIERI GPALTRINIERI Gregorio, OWS,Men's 10km,bronze
+570,italy, Italy, GRY,Group All-Around,bronze
+571,italy, Italy, ROW,Lightweight Women's Double Sculls,gold
+572,italy, Italy, ROW,Lightweight Men's Double Sculls,bronze
+573,italy, Italy, ROW,Men's Four,bronze
+574,italy, Italy, SAL,Mixed Multihull - Nacra 17 Foiling,gold
+575,italy, BACOSI DBACOSI Diana, SHO,Skeet Women,silver
+576,italy, Italy, SWM,Men's 4 x 100m Freestyle Relay,silver
+577,italy, PALTRINIERI GPALTRINIERI Gregorio, SWM,Men's 800m Freestyle,silver
+578,italy, MARTINENGHI NMARTINENGHI Nicolo, SWM,Men's 100m Breaststroke,bronze
+579,italy, BURDISSO FBURDISSO Federico, SWM,Men's 200m Butterfly,bronze
+580,italy, Italy, SWM,Men's 4 x 100m Medley Relay,bronze
+581,italy, QUADARELLA SQUADARELLA Simona, SWM,Women's 800m Freestyle,bronze
+582,italy, DELL'AQUILA VDELL'AQUILA Vito, TKW,Men -58kg,gold
+583,italy, BORDIGNON GBORDIGNON Giorgia, WLF,Women's 64kg,silver
+584,italy, ZANNI MZANNI Mirko, WLF,Men's 67kg,bronze
+585,italy, PIZZOLATO APIZZOLATO Antonino, WLF,Men's 81kg,bronze
+586,italy, CONYEDO RUANO ADJCONYEDO RUANO Abraham de Jesus, WRE,Men's Freestyle 97kg,bronze
+587,canada, de GRASSE Ade GRASSE Andre, ATH,Men's 200m,gold
+588,canada, WARNER DWARNER Damian, ATH,Men's Decathlon,gold
+589,canada, AHMED MAHMED Mohammed, ATH,Men's 5000m,silver
+590,canada, de GRASSE Ade GRASSE Andre, ATH,Men's 100m,bronze
+591,canada, Canada, ATH,Men's 4 x 100m Relay,bronze
+592,canada, DUNFEE EDUNFEE Evan, ATH,Men's 50km Race Walk,bronze
+593,canada, Canada, BSB,Softball,bronze
+594,canada, VINCENT-LAPOINTE LVINCENT-LAPOINTE Laurence, CSP,Women's Canoe Single 200m,silver
+595,canada, Canada, CSP,Women's Canoe Double 500m,bronze
+596,canada, MITCHELL KMITCHELL Kelsey, CTR,Women's Sprint,gold
+597,canada, GENEST LGENEST Lauriane, CTR,Women's Keirin,bronze
+598,canada, Canada, DIV,Women's Synchronised 3m Springboard,silver
+599,canada, Canada, FBL,Women,gold
+600,canada, KLIMKAIT JKLIMKAIT Jessica, JUD,Women -57 kg,bronze
+601,canada, BEAUCHEMIN-PINARDBEAUCHEMIN-PINARD Catherine, JUD,Women -63 kg,bronze
+602,canada, Canada, ROW,Women's Eight,gold
+603,canada, Canada, ROW,Women's Pair,bronze
+604,canada, MACNEIL MMACNEIL Margaret, SWM,Women's 100m Butterfly,gold
+605,canada, MASSE KMASSE Kylie, SWM,Women's 100m Backstroke,silver
+606,canada, MASSE KMASSE Kylie, SWM,Women's 200m Backstroke,silver
+607,canada, Canada, SWM,Women's 4 x 100m Freestyle Relay,silver
+608,canada, OLEKSIAK POLEKSIAK Penny, SWM,Women's 200m Freestyle,bronze
+609,canada, Canada, SWM,Women's 4 x 100m Medley Relay,bronze
+610,canada, CHARRON MGCHARRON Maude G, WLF,Women's 64kg,gold
+611,brazil, ANDRADE RANDRADE Rebeca, GAR,Women's Vault,gold
+612,brazil, ANDRADE RANDRADE Rebeca, GAR,Women's All-Around,silver
+613,brazil, dos SANTOS Ados SANTOS Alison, ATH,Men's 400m Hurdles,bronze
+614,brazil, BRAZ TBRAZ Thiago, ATH,Men's Pole Vault,bronze
+615,brazil, SOUSA HSOUSA Hebert, BOX,Men's Middle (69-75kg),gold
+616,brazil, FERREIRA BFERREIRA Beatriz, BOX,Women's Light (57-60kg),silver
+617,brazil, TEIXEIRA ATEIXEIRA Abner, BOX,Men's Heavy (81-91kg),bronze
+618,brazil, QUEIROZ dos SANTOSQUEIROZ dos SANTOS Isaquias, CSP,Men's Canoe Single 1000m,gold
+619,brazil, Brazil, FBL,Men,gold
+620,brazil, CARGNIN DCARGNIN Daniel, JUD,Men -66 kg,bronze
+621,brazil, AGUIAR MAGUIAR Mayra, JUD,Women -78 kg,bronze
+622,brazil, CUNHA AMCUNHA Ana Marcela, OWS,Women's 10km,gold
+623,brazil, Brazil, SAL,Women's Skiff - 49er FX,gold
+624,brazil, BARROS PBARROS Pedro, SKB,Men's Park,silver
+625,brazil, HOEFLER KHOEFLER Kelvin, SKB,Men's Street,silver
+626,brazil, LEAL RLEAL Rayssa, SKB,Women's Street,silver
+627,brazil, FERREIRA IFERREIRA Italo, SRF,Men,gold
+628,brazil, SCHEFFER FSCHEFFER Fernando, SWM,Men's 200m Freestyle,bronze
+629,brazil, FRATUS BFRATUS Bruno, SWM,Men's 50m Freestyle,bronze
+630,brazil, Pigossi / Stefani, TEN,Women's Doubles,bronze
+631,brazil, Brazil, VVO,Women,silver
+632,new-zealand, WALSH TWALSH Tomas, ATH,Men's Shot Put,bronze
+633,new-zealand, ADAMS VADAMS Valerie, ATH,Women's Shot Put,bronze
+634,new-zealand, NYIKA DNYIKA David, BOX,Men's Heavy (81-91kg),bronze
+635,new-zealand, New Zealand, CSP,Women's Kayak Double 500m,gold
+636,new-zealand, CARRINGTON LCARRINGTON Lisa, CSP,Women's Kayak Single 200m,gold
+637,new-zealand, CARRINGTON LCARRINGTON Lisa, CSP,Women's Kayak Single 500m,gold
+638,new-zealand, STEWART CSTEWART Campbell, CTR,Men's Omnium,silver
+639,new-zealand, ANDREWS EANDREWS Ellesse, CTR,Women's Keirin,silver
+640,new-zealand, KO LKO Lydia, GLF,Women's Individual Stroke Play,bronze
+641,new-zealand, New Zealand, ROW,Men's Eight,gold
+642,new-zealand, New Zealand, ROW,Women's Pair,gold
+643,new-zealand, TWIGG ETWIGG Emma, ROW,Women's Single Sculls,gold
+644,new-zealand, New Zealand, ROW,Women's Double Sculls,silver
+645,new-zealand, New Zealand, ROW,Women's Eight,silver
+646,new-zealand, New Zealand, RUG,Women,gold
+647,new-zealand, New Zealand, RUG,Men,silver
+648,new-zealand, New Zealand, SAL,Men's Skiff - 49er,silver
+649,new-zealand, Daniell / Venus, TEN,Men's Doubles,bronze
+650,new-zealand, SCHMIDT DSCHMIDT Dylan, GTR,Men,bronze
+651,new-zealand, WILDE HWILDE Hayden, TRI,Men's Individual,bronze
+652,cuba, ECHEVARRIA JMECHEVARRIA Juan Miguel, ATH,Men's Long Jump,silver
+653,cuba, MASSO MMASSO Maykel, ATH,Men's Long Jump,bronze
+654,cuba, PEREZ YPEREZ Yaime, ATH,Women's Discus Throw,bronze
+655,cuba, la CRUZ Jla CRUZ Julio, BOX,Men's Heavy (81-91kg),gold
+656,cuba, CRUZ ACRUZ Andy, BOX,Men's Light (57-63kg),gold
+657,cuba, LOPEZ ALOPEZ Arlen, BOX,Men's Light Heavy (75-81kg),gold
+658,cuba, IGLESIAS RIGLESIAS Roniel, BOX,Men's Welter (63-69kg),gold
+659,cuba, ALVAREZ LALVAREZ Lazaro, BOX,Men's Feather (52-57kg),bronze
+660,cuba, Cuba, CSP,Men's Canoe Double 1000m,gold
+661,cuba, ORTIZ IORTIZ Idalys, JUD,Women +78 kg,silver
+662,cuba, PUPO LPUPO Leuris, SHO,25m Rapid Fire Pistol Men,silver
+663,cuba, ALBA CASTILLO RYALBA CASTILLO Rafael Yunier, TKW,Men +80kg,bronze
+664,cuba, LOPEZ NUNEZ MLOPEZ NUNEZ Mijain, WRE,Men's Greco-Roman 130kg,gold
+665,cuba, ORTA SANCHEZ LAORTA SANCHEZ Luis Alberto, WRE,Men's Greco-Roman 60kg,gold
+666,cuba, SALAS PEREZ RSALAS PEREZ Reineris, WRE,Men's Freestyle 97kg,bronze
+667,hungary, KOPASZ BKOPASZ Balint, CSP,Men's Kayak Single 1000m,gold
+668,hungary, TOTKA STOTKA Sandor, CSP,Men's Kayak Single 200m,gold
+669,hungary, Hungary, CSP,Women's Kayak Four 500m,gold
+670,hungary, VARGA AVARGA Adam, CSP,Men's Kayak Single 1000m,silver
+671,hungary, CSIPES TCSIPES Tamara, CSP,Women's Kayak Single 500m,silver
+672,hungary, Hungary, CSP,Women's Kayak Double 500m,bronze
+673,hungary, SZILAGYI ASZILAGYI Aron, FEN,Men's Sabre Individual,gold
+674,hungary, SIKLOSI GSIKLOSI Gergely, FEN,Men's Épée Individual,silver
+675,hungary, Hungary, FEN,Men's Sabre Team,bronze
+676,hungary, TOTH KTOTH Krisztian, JUD,Men -90 kg,bronze
+677,hungary, HARSPATAKI KGHARSPATAKI Karoly Gabor, KTE,Men's Kumite -75kg,bronze
+678,hungary, RASOVSZKY KRASOVSZKY Kristof, OWS,Men's 10km,silver
+679,hungary, KOVACS SKOVACS Sarolta, MPN,Women's Individual,bronze
+680,hungary, BERECZ ZBERECZ Zsombor, SAL,Men's One Person Dinghy (Heavyweight) - Finn,silver
+681,hungary, MILAK KMILAK Kristof, SWM,Men's 200m Butterfly,gold
+682,hungary, MILAK KMILAK Kristof, SWM,Men's 100m Butterfly,silver
+683,hungary, Hungary, WPO,Men,bronze
+684,hungary, Hungary, WPO,Women,bronze
+685,hungary, LORINCZ TLORINCZ Tamas, WRE,Men's Greco-Roman 77kg,gold
+686,hungary, LORINCZ VLORINCZ Viktor, WRE,Men's Greco-Roman 87kg,silver
+687,republic-of-korea, Republic of Korea, ARC,Men's Team,gold
+688,republic-of-korea, AN SAN San, ARC,Women's Individual,gold
+689,republic-of-korea, Republic of Korea, ARC,Women's Team,gold
+690,republic-of-korea, Republic of Korea, ARC,Mixed Team,gold
+691,republic-of-korea, SHIN JSHIN Jeahwan, GAR,Men's Vault,gold
+692,republic-of-korea, YEO SYEO Seojeong, GAR,Women's Vault,bronze
+693,republic-of-korea, KIM Soyeong/KONG Heeyong, BDM,Women's Doubles,bronze
+694,republic-of-korea, Republic of Korea, FEN,Men's Sabre Team,gold
+695,republic-of-korea, Republic of Korea, FEN,Women's Épée Team,silver
+696,republic-of-korea, Republic of Korea, FEN,Men's Épée Team,bronze
+697,republic-of-korea, KIM JKIM Junghwan, FEN,Men's Sabre Individual,bronze
+698,republic-of-korea, Republic of Korea, FEN,Women's Sabre Team,bronze
+699,republic-of-korea, CHO GCHO Guham, JUD,Men -100 kg,silver
+700,republic-of-korea, AN BAN Baul, JUD,Men -66 kg,bronze
+701,republic-of-korea, AN CAN Changrim, JUD,Men -73 kg,bronze
+702,republic-of-korea, JUN WJUN Woongtae, MPN,Men's Individual,bronze
+703,republic-of-korea, KIM MKIM Minjung, SHO,25m Pistol Women,silver
+704,republic-of-korea, LEE DLEE Dabin, TKW,Women +67kg,silver
+705,republic-of-korea, IN KDIN Kyo Don, TKW,Men +80kg,bronze
+706,republic-of-korea, JANG JJANG Jun, TKW,Men -58kg,bronze
+707,poland, TOMALA DTOMALA Dawid, ATH,Men's 50km Race Walk,gold
+708,poland, NOWICKI WNOWICKI Wojciech, ATH,Men's Hammer Throw,gold
+709,poland, WLODARCZYK AWLODARCZYK Anita, ATH,Women's Hammer Throw,gold
+710,poland, Poland, ATH,4 x 400m Relay Mixed,gold
+711,poland, Poland, ATH,Women's 4 x 400m Relay,silver
+712,poland, ANDREJCZYK MANDREJCZYK Maria, ATH,Women's Javelin Throw,silver
+713,poland, DOBEK PDOBEK Patryk, ATH,Men's 800m,bronze
+714,poland, FAJDEK PFAJDEK Pawel, ATH,Men's Hammer Throw,bronze
+715,poland, KOPRON MKOPRON Malwina, ATH,Women's Hammer Throw,bronze
+716,poland, Poland, CSP,Women's Kayak Double 500m,silver
+717,poland, Poland, CSP,Women's Kayak Four 500m,bronze
+718,poland, Poland, ROW,Women's Quadruple Sculls,silver
+719,poland, Poland, SAL,Women's Two Person Dinghy - 470,silver
+720,poland, MICHALIK TMICHALIK Tadeusz, WRE,Men's Greco-Roman 97kg,bronze
+721,czech-republic, VADLEJCH JVADLEJCH Jakub, ATH,Men's Javelin Throw,silver
+722,czech-republic, VESELY VVESELY Vitezslav, ATH,Men's Javelin Throw,bronze
+723,czech-republic, PRSKAVEC JPRSKAVEC Jiri, CSL,Men's Kayak,gold
+724,czech-republic, ROHAN LROHAN Lukas, CSL,Men's Canoe,silver
+725,czech-republic, Czech Republic, CSP,Men's Kayak Double 1000m,bronze
+726,czech-republic, CHOUPENITCH ACHOUPENITCH Alexander, FEN,Men's Foil Individual,bronze
+727,czech-republic, KRPALEK LKRPALEK Lukas, JUD,Men +100 kg,gold
+728,czech-republic, LIPTAK JLIPTAK Jiri, SHO,Trap Men,gold
+729,czech-republic, KOSTELECKY DKOSTELECKY David, SHO,Trap Men,silver
+730,czech-republic, Krejcikova / Siniakova, TEN,Women's Doubles,gold
+731,czech-republic, VONDROUSOVA MVONDROUSOVA Marketa, TEN,Women's Singles,silver
+732,kenya, KORIR EKKORIR Emmanuel Kipkurui, ATH,Men's 800m,gold
+733,kenya, KIPCHOGE EKIPCHOGE Eliud, ATH,Men's Marathon,gold
+734,kenya, KIPYEGON FKIPYEGON Faith, ATH,Women's 1500m,gold
+735,kenya, JEPCHIRCHIR PJEPCHIRCHIR Peres, ATH,Women's Marathon,gold
+736,kenya, CHERUIYOT TCHERUIYOT Timothy, ATH,Men's 1500m,silver
+737,kenya, ROTICH FCROTICH Ferguson Cheruiyot, ATH,Men's 800m,silver
+738,kenya, OBIRI HOBIRI Hellen, ATH,Women's 5000m,silver
+739,kenya, KOSGEI BKOSGEI Brigid, ATH,Women's Marathon,silver
+740,kenya, KIGEN BKIGEN Benjamin, ATH,Men's 3000m Steeplechase,bronze
+741,kenya, KIYENG HKIYENG Hyvin, ATH,Women's 3000m Steeplechase,bronze
+742,norway, INGEBRIGTSEN JINGEBRIGTSEN Jakob, ATH,Men's 1500m,gold
+743,norway, WARHOLM KWARHOLM Karsten, ATH,Men's 400m Hurdles,gold
+744,norway, HENRIKSEN EHENRIKSEN Eivind, ATH,Men's Hammer Throw,silver
+745,norway, Mol A./Sorum C., VBV,Men,gold
+746,norway, Norway, HBL,Women,bronze
+747,norway, BORCH KBORCH Kjetil, ROW,Men's Single Sculls,silver
+748,norway, TOMASGAARD HTOMASGAARD Hermann, SAL,Men's One Person Dinghy - Laser,bronze
+749,norway, BLUMMENFELT KBLUMMENFELT Kristian, TRI,Men's Individual,gold
+750,jamaica, PARCHMENT HPARCHMENT Hansle, ATH,Men's 110m Hurdles,gold
+751,jamaica, THOMPSON-HERAH ETHOMPSON-HERAH Elaine, ATH,Women's 100m,gold
+752,jamaica, THOMPSON-HERAH ETHOMPSON-HERAH Elaine, ATH,Women's 200m,gold
+753,jamaica, Jamaica, ATH,Women's 4 x 100m Relay,gold
+754,jamaica, FRASER-PRYCE SAFRASER-PRYCE Shelly-Ann, ATH,Women's 100m,silver
+755,jamaica, LEVY RLEVY Ronald, ATH,Men's 110m Hurdles,bronze
+756,jamaica, JACKSON SJACKSON Shericka, ATH,Women's 100m,bronze
+757,jamaica, TAPPER MTAPPER Megan, ATH,Women's 100m Hurdles,bronze
+758,jamaica, Jamaica, ATH,Women's 4 x 400m Relay,bronze
+759,spain, ZAPATA RZAPATA Rayderley, GAR,Men's Floor Exercise,silver
+760,spain, PELETEIRO APELETEIRO Ana, ATH,Women's Triple Jump,bronze
+761,spain, CHOURRAUT MCHOURRAUT Maialen, CSL,Women's Kayak,silver
+762,spain, Spain, CSP,Men's Kayak Four 500m,silver
+763,spain, PORTELA TPORTELA Teresa, CSP,Women's Kayak Single 200m,silver
+764,spain, VALERO SERRANO DVALERO SERRANO David, MTB,Men's Cross-country,bronze
+765,spain, Spain, FBL,Men,silver
+766,spain, Spain, HBL,Men,bronze
+767,spain, SANCHEZ JAIME SSANCHEZ JAIME Sandra, KTE,Women's Kata,gold
+768,spain, QUINTERO DQUINTERO Damian, KTE,Men's Kata,silver
+769,spain, CARDONA MENDEZ JCARDONA MENDEZ Joan, SAL,Men's One Person Dinghy (Heavyweight) - Finn,bronze
+770,spain, Spain, SAL,Men's Two Person Dinghy - 470,bronze
+771,spain, Spain, SHO,Trap Mixed Team,gold
+772,spain, GINES LOPEZ AGINES LOPEZ Alberto, CLB,Men's Combined,gold
+773,spain, CEREZO IGLESIAS ACEREZO IGLESIAS Adriana, TKW,Women -49kg,silver
+774,spain, CARRENO BUSTA PCARRENO BUSTA Pablo, TEN,Men's Singles,bronze
+775,spain, Spain, WPO,Women,silver
+776,sweden, STAHL DSTAHL Daniel, ATH,Men's Discus Throw,gold
+777,sweden, DUPLANTIS ADUPLANTIS Armand, ATH,Men's Pole Vault,gold
+778,sweden, PETTERSSON SPETTERSSON Simon, ATH,Men's Discus Throw,silver
+779,sweden, Sweden, EQU,Jumping Team,gold
+780,sweden, FREDRICSON PFREDRICSON Peder, EQU,Jumping Individual,silver
+781,sweden, Sweden, FBL,Women,silver
+782,sweden, Sweden, SAL,Men's Two Person Dinghy - 470,silver
+783,sweden, OLSSON JOLSSON Josefin, SAL,Women's One Person Dinghy - Laser Radial,silver
+784,sweden, SJOESTROEM SSJOESTROEM Sarah, SWM,Women's 50m Freestyle,silver
+785,switzerland," Verge-Depre, A./Heidrich", VBV,Women,bronze
+786,switzerland, DUCARROZ NDUCARROZ Nikita, BMF,Women's Park,bronze
+787,switzerland, NEFF JNEFF Jolanda, MTB,Women's Cross-country,gold
+788,switzerland, FLUECKIGER MFLUECKIGER Mathias, MTB,Men's Cross-country,silver
+789,switzerland, FREI SFREI Sina, MTB,Women's Cross-country,silver
+790,switzerland, INDERGAND LINDERGAND Linda, MTB,Women's Cross-country,bronze
+791,switzerland, REUSSER MREUSSER Marlen, CRD,Women's Individual Time Trial,silver
+792,switzerland, CHRISTEN NCHRISTEN Nina, SHO,50m Rifle 3 Positions Women,gold
+793,switzerland, CHRISTEN NCHRISTEN Nina, SHO,10m Air Rifle Women,bronze
+794,switzerland, PONTI NPONTI Noe, SWM,Men's 100m Butterfly,bronze
+795,switzerland, DESPLANCHES JDESPLANCHES Jeremy, SWM,Men's 200m Individual Medley,bronze
+796,switzerland, BENCIC BBENCIC Belinda, TEN,Women's Singles,gold
+797,switzerland, Bencic / Golubic, TEN,Women's Doubles,silver
+798,denmark, AXELSEN VAXELSEN Viktor, BDM,Men's Singles,gold
+799,denmark, JORGENSEN EAJORGENSEN Emma Aastrand, CSP,Women's Kayak Single 200m,bronze
+800,denmark, JORGENSEN EAJORGENSEN Emma Aastrand, CSP,Women's Kayak Single 500m,bronze
+801,denmark, Denmark, CTR,Men's Madison,gold
+802,denmark, Denmark, CTR,Men's Team Pursuit,silver
+803,denmark, Denmark, CTR,Women's Madison,silver
+804,denmark, Denmark, HBL,Men,silver
+805,denmark, Denmark, ROW,Men's Pair,bronze
+806,denmark, RINDOM AMRINDOM Anne-Marie, SAL,Women's One Person Dinghy - Laser Radial,gold
+807,denmark, HANSEN JHANSEN Jesper, SHO,Skeet Men,silver
+808,denmark, BLUME PBLUME Pernille, SWM,Women's 50m Freestyle,bronze
+809,croatia, SRBIC TSRBIC Tin, GAR,Men's Horizontal Bar,silver
+810,croatia, Croatia, ROW,Men's Pair,gold
+811,croatia, MARTIN DMARTIN Damir, ROW,Men's Single Sculls,bronze
+812,croatia, STIPANOVIC TSTIPANOVIC Tonci, SAL,Men's One Person Dinghy - Laser,silver
+813,croatia, JELIC MJELIC Matea, TKW,Women -67kg,gold
+814,croatia, KANAET TKANAET Toni, TKW,Men -80kg,bronze
+815,croatia, Mektic / Pavic, TEN,Men's Doubles,gold
+816,croatia, Cilic / Dodig, TEN,Men's Doubles,silver
+817,islamic-rep-of-iran, GANJZADEH SGANJZADEH Sajad, KTE,Men's Kumite +75kg,gold
+818,islamic-rep-of-iran, FOROUGHI JFOROUGHI Javad, SHO,10m Air Pistol Men,gold
+819,islamic-rep-of-iran, DAVOUDI ADAVOUDI Ali, WLF,Men's +109kg,silver
+820,islamic-rep-of-iran, GERAEI MGERAEI Mohammadreza, WRE,Men's Greco-Roman 67kg,gold
+821,islamic-rep-of-iran, YAZDANICHARATI HYAZDANICHARATI Hassan, WRE,Men's Freestyle 86kg,silver
+822,islamic-rep-of-iran, ZARE AHZARE Amir Hossein, WRE,Men's Freestyle 125kg,bronze
+823,islamic-rep-of-iran, SARAVI MSARAVI Mohammadhadi, WRE,Men's Greco-Roman 97kg,bronze
+824,serbia, Serbia, BK3,Men,bronze
+825,serbia, PREKOVIC JPREKOVIC Jovana, KTE,Women's Kumite -61kg,gold
+826,serbia, MIKEC DMIKEC Damir, SHO,10m Air Pistol Men,silver
+827,serbia, SEBIC MSEBIC Milenko, SHO,50m Rifle 3 Positions Men,bronze
+828,serbia, MANDIC MMANDIC Milica, TKW,Women +67kg,gold
+829,serbia, BOGDANOVIC TBOGDANOVIC Tijana, TKW,Women -49kg,bronze
+830,serbia, Serbia, VVO,Women,bronze
+831,serbia, Serbia, WPO,Men,gold
+832,serbia, DATUNASHVILI ZDATUNASHVILI Zurabi, WRE,Men's Greco-Roman 87kg,bronze
+833,belgium, DERWAEL NDERWAEL Nina, GAR,Women's Uneven Bars,gold
+834,belgium, THIAM NTHIAM Nafissatou, ATH,Women's Heptathlon,gold
+835,belgium, ABDI BABDI Bashir, ATH,Men's Marathon,bronze
+836,belgium, van AERT Wvan AERT Wout, CRD,Men's Road Race,silver
+837,belgium, Belgium, EQU,Jumping Team,bronze
+838,belgium, Belgium, HOC,Men,gold
+839,belgium, CASSE MCASSE Matthias, JUD,Men -81 kg,bronze
+840,bulgaria, KRASTEVA SZKRASTEVA Stoyka Zhelyazkova, BOX,Women's Fly (48-51kg),gold
+841,bulgaria, GORANOVA IGORANOVA Ivet, KTE,Women's Kumite -55kg,gold
+842,bulgaria, Bulgaria, GRY,Group All-Around,gold
+843,bulgaria, KOSTADINOVA AKOSTADINOVA Antoaneta, SHO,10m Air Pistol Women,silver
+844,bulgaria, NIKOLOVA EGNIKOLOVA Evelina Georgieva, WRE,Women's Freestyle 57kg,bronze
+845,bulgaria, YUSEIN TMYUSEIN Taybe Mustafa, WRE,Women's Freestyle 62kg,bronze
+846,slovenia, SAVSEK BSAVSEK Benjamin, CSL,Men's Canoe,gold
+847,slovenia, ROGLIC PROGLIC Primoz, CRD,Men's Individual Time Trial,gold
+848,slovenia, POGACAR TPOGACAR Tadej, CRD,Men's Road Race,bronze
+849,slovenia, TRSTENJAK TTRSTENJAK Tina, JUD,Women -63 kg,silver
+850,slovenia, GARNBRET JGARNBRET Janja, CLB,Women's Combined,gold
+851,uzbekistan, JALOLOV BJALOLOV Bakhodir, BOX,Men's Super Heavy (+91kg),gold
+852,uzbekistan, BOBONOV DBOBONOV Davlat, JUD,Men -90 kg,bronze
+853,uzbekistan, RASHITOV URASHITOV Ulugbek, TKW,Men -68kg,gold
+854,uzbekistan, DJURAEV ADJURAEV Akbar, WLF,Men's 109kg,gold
+855,uzbekistan, ABDURAKHMONOV BABDURAKHMONOV Bekzod, WRE,Men's Freestyle 74kg,bronze
+856,georgia, BEKAURI LBEKAURI Lasha, JUD,Men -90 kg,gold
+857,georgia, TUSHISHVILI GTUSHISHVILI Guram, JUD,Men +100 kg,silver
+858,georgia, MARGVELASHVILI VMARGVELASHVILI Vazha, JUD,Men -66 kg,silver
+859,georgia, SHAVDATUASHVILI LSHAVDATUASHVILI Lasha, JUD,Men -73 kg,silver
+860,georgia, TALAKHADZE LTALAKHADZE Lasha, WLF,Men's +109kg,gold
+861,georgia, PLIESNOI APLIESNOI Anton, WLF,Men's 96kg,bronze
+862,georgia, PETRIASHVILI GPETRIASHVILI Geno, WRE,Men's Freestyle 125kg,silver
+863,georgia, KAJAIA IKAJAIA Iakobi, WRE,Men's Greco-Roman 130kg,silver
+864,chinese-taipei, Chinese Taipei, ARC,Men's Team,silver
+865,chinese-taipei, LEE CKLEE Chih Kai, GAR,Men's Pommel Horse,silver
+866,chinese-taipei, LEE Yang/WANG Chi-Lin, BDM,Men's Doubles,gold
+867,chinese-taipei, TAI TYTAI Tzu-Ying, BDM,Women's Singles,silver
+868,chinese-taipei, HUANG HWHUANG Hsiao-Wen, BOX,Women's Fly (48-51kg),bronze
+869,chinese-taipei, PAN C TPAN C T, GLF,Men's Individual Stroke Play,bronze
+870,chinese-taipei, YANG YWYANG Yung Wei, JUD,Men -60 kg,silver
+871,chinese-taipei, WEN TWEN Tzuyun, KTE,Women's Kumite -55kg,bronze
+872,chinese-taipei, LIN Yun Ju / CHENG I Ching, TTE,Mixed Doubles,bronze
+873,chinese-taipei, LO CLLO Chia-Ling, TKW,Women -57kg,bronze
+874,chinese-taipei, KUO HCKUO Hsing-Chun, WLF,Women's 59kg,gold
+875,chinese-taipei, CHEN WHCHEN Wen-Huei, WLF,Women's 64kg,bronze
+876,turkey, GAZOZ MGAZOZ Mete, ARC,Men's Individual,gold
+877,turkey, ARICAN FARICAN Ferhat, GAR,Men's Parallel Bars,bronze
+878,turkey, SURMENELI BSURMENELI Busenaz, BOX,Women's Welter (64-69kg),gold
+879,turkey, CAKIROGLU BNCAKIROGLU Buse Naz, BOX,Women's Fly (48-51kg),silver
+880,turkey, SAMDAN ESAMDAN Eray, KTE,Men's Kumite -67kg,silver
+881,turkey, SOFUOGLU ASOFUOGLU Ali, KTE,Men's Kata,bronze
+882,turkey, AKTAS UAKTAS Ugur, KTE,Men's Kumite +75kg,bronze
+883,turkey, COBAN MCOBAN Merve, KTE,Women's Kumite -61kg,bronze
+884,turkey, RECBER HRECBER Hakan, TKW,Men -68kg,bronze
+885,turkey, ILGUN HKILGUN Hatice Kubra, TKW,Women -57kg,bronze
+886,turkey, AKGUL TAKGUL Taha, WRE,Men's Freestyle 125kg,bronze
+887,turkey, KAYAALP RKAYAALP Riza, WRE,Men's Greco-Roman 130kg,bronze
+888,turkey, ADAR YADAR Yasemin, WRE,Women's Freestyle 76kg,bronze
+889,greece, PETROUNIAS EPETROUNIAS Eleftherios, GAR,Men's Rings,bronze
+890,greece, TENTOGLOU MTENTOGLOU Miltiadis, ATH,Men's Long Jump,gold
+891,greece, NTOUSKOS SNTOUSKOS Stefanos, ROW,Men's Single Sculls,gold
+892,greece, Greece, WPO,Men,silver
+893,uganda, CHEPTEGEI JCHEPTEGEI Joshua, ATH,Men's 5000m,gold
+894,uganda, CHEMUTAI PCHEMUTAI Peruth, ATH,Women's 3000m Steeplechase,gold
+895,uganda, CHEPTEGEI JCHEPTEGEI Joshua, ATH,"Men's 10,000m",silver
+896,uganda, KIPLIMO JKIPLIMO Jacob, ATH,"Men's 10,000m",bronze
+897,ecuador, CARAPAZ RCARAPAZ Richard, CRD,Men's Road Race,gold
+898,ecuador, DAJOMES BARRERA NPDAJOMES BARRERA Neisi Patricia, WLF,Women's 76kg,gold
+899,ecuador, SALAZAR ARCE TYSALAZAR ARCE Tamara Yajaira, WLF,Women's 87kg,silver
+900,ireland, HARRINGTON KAHARRINGTON Kellie Anne, BOX,Women's Light (57-60kg),gold
+901,ireland, WALSH AWALSH Aidan, BOX,Men's Welter (63-69kg),bronze
+902,ireland, Ireland, ROW,Lightweight Men's Double Sculls,gold
+903,ireland, Ireland, ROW,Women's Four,bronze
+904,israel, DOLGOPYAT ADOLGOPYAT Artem, GAR,Men's Floor Exercise,gold
+905,israel, Israel, JUD,Mixed Team,bronze
+906,israel, ASHRAM LASHRAM Linoy, GRY,Individual All-Around,gold
+907,israel, SEMBERG ASEMBERG Abishag, TKW,Women -49kg,bronze
+908,qatar, BARSHIM MEBARSHIM Mutaz Essa, ATH,Men's High Jump,gold
+909,qatar, Cherif/Ahmed, VBV,Men,bronze
+910,qatar, ELBAKH FIEHELBAKH Fares Ibrahim E H, WLF,Men's 96kg,gold
+911,bahamas, GARDINER SGARDINER Steven, ATH,Men's 400m,gold
+912,bahamas, MILLER-UIBO SMILLER-UIBO Shaunae, ATH,Women's 400m,gold
+913,kosovo, KRASNIQI DKRASNIQI Distria, JUD,Women -48 kg,gold
+914,kosovo, GJAKOVA NGJAKOVA Nora, JUD,Women -57 kg,gold
+915,ukraine, Ukraine, SWA,Duet,bronze
+916,ukraine, Ukraine, SWA,Team,bronze
+917,ukraine, MAHUCHIKH YMAHUCHIKH Yaroslava, ATH,Women's High Jump,bronze
+918,ukraine, KHYZHNIAK OKHYZHNIAK Oleksandr, BOX,Men's Middle (69-75kg),silver
+919,ukraine, Ukraine, CSP,Women's Canoe Double 500m,silver
+920,ukraine, LUZAN LLUZAN Liudmyla, CSP,Women's Canoe Single 200m,bronze
+921,ukraine, STARIKOVA OSTARIKOVA Olena, CTR,Women's Sprint,silver
+922,ukraine, REIZLIN IREIZLIN Igor, FEN,Men's Épée Individual,bronze
+923,ukraine, BILODID DBILODID Daria, JUD,Women -48 kg,bronze
+924,ukraine, TERLIUGA ATERLIUGA Anzhelika, KTE,Women's Kumite -55kg,silver
+925,ukraine, HORUNA SHORUNA Stanislav, KTE,Men's Kumite -75kg,bronze
+926,ukraine, Ukraine, SHO,10m Air Pistol Mixed Team,bronze
+927,ukraine, ROMANCHUK MROMANCHUK Mykhailo, SWM,Men's 1500m Freestyle,silver
+928,ukraine, ROMANCHUK MROMANCHUK Mykhailo, SWM,Men's 800m Freestyle,bronze
+929,ukraine, SVITOLINA ESVITOLINA Elina, TEN,Women's Singles,bronze
+930,ukraine, BELENIUK ZBELENIUK Zhan, WRE,Men's Greco-Roman 87kg,gold
+931,ukraine, NASIBOV PNASIBOV Parviz, WRE,Men's Greco-Roman 67kg,silver
+932,ukraine, KOLIADENKO IKOLIADENKO Iryna, WRE,Women's Freestyle 62kg,bronze
+933,ukraine, CHERKASOVA ACHERKASOVA Alla, WRE,Women's Freestyle 68kg,bronze
+934,belarus, NEDASEKAU MNEDASEKAU Maksim, ATH,Men's High Jump,bronze
+935,belarus, Belarus, CSP,Women's Kayak Four 500m,silver
+936,belarus, HARNASKO AHARNASKO Alina, GRY,Individual All-Around,bronze
+937,belarus, LITVINOVICH ILITVINOVICH Ivan, GTR,Men,gold
+938,belarus, KADZIMAHAMEDAU MKADZIMAHAMEDAU Mahamedkhabib, WRE,Men's Freestyle 74kg,silver
+939,belarus, KURACHKINA IKURACHKINA Iryna, WRE,Women's Freestyle 57kg,silver
+940,belarus, KALADZINSKAYA VKALADZINSKAYA Vanesa, WRE,Women's Freestyle 53kg,bronze
+941,romania, POPESCU AMPOPESCU Ana Maria, FEN,Women's Épée Individual,silver
+942,romania, Romania, ROW,Women's Double Sculls,gold
+943,romania, Romania, ROW,Men's Four,silver
+944,romania, Romania, ROW,Men's Pair,silver
+945,venezuela, ROJAS YROJAS Yulimar, ATH,Women's Triple Jump,gold
+946,venezuela, DHERS DDHERS Daniel, BMF,Men's Park,silver
+947,venezuela, MAYORA PERNIA JRMAYORA PERNIA Julio Ruben, WLF,Men's 73kg,silver
+948,venezuela, VALLENILLA SANCHEZVALLENILLA SANCHEZ Keydomar Giovan., WLF,Men's 96kg,silver
+949,india, CHOPRA NCHOPRA Neeraj, ATH,Men's Javelin Throw,gold
+950,india, PUSARLA VSPUSARLA V. Sindhu, BDM,Women's Singles,bronze
+951,india, BORGOHAIN LBORGOHAIN Lovlina, BOX,Women's Welter (64-69kg),bronze
+952,india, India, HOC,Men,bronze
+953,india, MIRABAI CSMIRABAI Chanu Saikhom, WLF,Women's 49kg,silver
+954,india, RAVI KRAVI Kumar, WRE,Men's Freestyle 57kg,silver
+955,india, BAJRANG BBAJRANG Bajrang, WRE,Men's Freestyle 65kg,bronze
+956,hong-kong-china, LEE WSLEE Wai Sze, CTR,Women's Sprint,bronze
+957,hong-kong-china, CHEUNG KLCHEUNG Ka Long, FEN,Men's Foil Individual,gold
+958,hong-kong-china, LAU MSGLAU Mo Sheung Grace, KTE,Women's Kata,bronze
+959,hong-kong-china, HAUGHEY SBHAUGHEY Siobhan Bernadette, SWM,Women's 100m Freestyle,silver
+960,hong-kong-china, HAUGHEY SBHAUGHEY Siobhan Bernadette, SWM,Women's 200m Freestyle,silver
+961,hong-kong-china," Hong Kong, China", TTE,Women's Team,bronze
+962,philippines, PAALAM CPAALAM Carlo, BOX,Men's Fly (48-52kg),silver
+963,philippines, PETECIO NPETECIO Nesthy, BOX,Women's Feather (54-57kg),silver
+964,philippines, MARCIAL EMARCIAL Eumir, BOX,Men's Middle (69-75kg),bronze
+965,philippines, DIAZ HDIAZ Hidilyn, WLF,Women's 55kg,gold
+966,slovakia, GRIGAR JGRIGAR Jakub, CSL,Men's Kayak,silver
+967,slovakia, Slovakia, CSP,Men's Kayak Four 500m,bronze
+968,slovakia, SABBATINI RSABBATINI Rory, GLF,Men's Individual Stroke Play,silver
+969,slovakia, REHAK STEFECEKOVAREHAK STEFECEKOVA Zuzana, SHO,Trap Women,gold
+970,south-africa, BUITENDAG BBUITENDAG Bianca, SRF,Women,silver
+971,south-africa, SCHOENMAKER TSCHOENMAKER Tatjana, SWM,Women's 200m Breaststroke,gold
+972,south-africa, SCHOENMAKER TSCHOENMAKER Tatjana, SWM,Women's 100m Breaststroke,silver
+973,austria, WEISSHAIDINGER LWEISSHAIDINGER Lukas, ATH,Men's Discus Throw,bronze
+974,austria, KIESENHOFER AKIESENHOFER Anna, CRD,Women's Road Race,gold
+975,austria, POLLERES MPOLLERES Michaela, JUD,Women -70 kg,silver
+976,austria, BORCHASHVILI SBORCHASHVILI Shamil, JUD,Men -81 kg,bronze
+977,austria, PLANK BPLANK Bettina, KTE,Women's Kumite -55kg,bronze
+978,austria, LOBNIG MLOBNIG Magdalena, ROW,Women's Single Sculls,bronze
+979,austria, SCHUBERT JSCHUBERT Jakob, CLB,Men's Combined,bronze
+980,egypt, ABDELAZIZ FABDELAZIZ Feryal, KTE,Women's Kumite +61kg,gold
+981,egypt, LOTFY GLOTFY Giana, KTE,Women's Kumite -61kg,bronze
+982,egypt, ELGENDY AELGENDY Ahmed, MPN,Men's Individual,silver
+983,egypt, EISSA SEISSA Seif, TKW,Men -80kg,bronze
+984,egypt, MALAK HMALAK Hedaya, TKW,Women -67kg,bronze
+985,egypt, ELSAYED MIEELSAYED Mohamed Ibrahim Elsayed, WRE,Men's Greco-Roman 67kg,bronze
+986,indonesia, POLII Greysia/RAHAYU Apriyani, BDM,Women's Doubles,gold
+987,indonesia, AS GINTINGGINTING Anthony Sinisuka, BDM,Men's Singles,bronze
+988,indonesia, IRAWAN EYIRAWAN Eko Yuli, WLF,Men's 61kg,silver
+989,indonesia, ABDULLAH REABDULLAH Rahmat Erwin, WLF,Men's 73kg,bronze
+990,indonesia, AISAH WCAISAH Windy Cantika, WLF,Women's 49kg,bronze
+991,ethiopia, BAREGA SBAREGA Selemon, ATH,"Men's 10,000m",gold
+992,ethiopia, GIRMA LGIRMA Lamecha, ATH,Men's 3000m Steeplechase,silver
+993,ethiopia, GIDEY LGIDEY Letesenbet, ATH,"Women's 10,000m",bronze
+994,ethiopia, TSEGAY GTSEGAY Gudaf, ATH,Women's 5000m,bronze
+995,portugal, PICHARDO PPICHARDO Pedro, ATH,Men's Triple Jump,gold
+996,portugal, MAMONA PMAMONA Patricia, ATH,Women's Triple Jump,silver
+997,portugal, PIMENTA FPIMENTA Fernando, CSP,Men's Kayak Single 1000m,bronze
+998,portugal, FONSECA JFONSECA Jorge, JUD,Men -100 kg,bronze
+999,tunisia, HAFNAOUI AHAFNAOUI Ahmed, SWM,Men's 400m Freestyle,gold
+1000,tunisia, JENDOUBI MKJENDOUBI Mohamed Khalil, TKW,Men -58kg,silver
+1001,estonia, Estonia, FEN,Women's Épée Team,gold
+1002,estonia, LEHIS KLEHIS Katrina, FEN,Women's Épée Individual,bronze
+1003,fiji, Fiji, RUG,Men,gold
+1004,fiji, Fiji, RUG,Women,bronze
+1005,latvia, Latvia, BK3,Men,gold
+1006,latvia, PLESNIEKS APLESNIEKS Arturs, WLF,Men's 109kg,bronze
+1007,thailand, SEESONDEE SSEESONDEE Sudaporn, BOX,Women's Light (57-60kg),bronze
+1008,thailand, WONGPATTANAKIT PWONGPATTANAKIT Panipak, TKW,Women -49kg,gold
+1009,bermuda, DUFFY FDUFFY Flora, TRI,Women's Individual,gold
+1010,morocco, EL BAKKALI SEL BAKKALI Soufiane, ATH,Men's 3000m Steeplechase,gold
+1011,puerto-rico, CAMACHO-QUINN JCAMACHO-QUINN Jasmine, ATH,Women's 100m Hurdles,gold
+1012,colombia, ZAMBRANO AJZAMBRANO Anthony Jose, ATH,Men's 400m,silver
+1013,colombia, ARENAS SLARENAS Sandra Lorena, ATH,Women's 20km Race Walk,silver
+1014,colombia, PAJON MPAJON Mariana, BMX,Women,silver
+1015,colombia, RAMIREZ YEPES CARAMIREZ YEPES Carlos Alberto, BMX,Men,bronze
+1016,colombia, MOSQUERA LOZANO LJMOSQUERA LOZANO Luis Javier, WLF,Men's 67kg,silver
+1017,azerbaijan, ALFONSO DOMINGUEZALFONSO DOMINGUEZ Loren Berto, BOX,Men's Light Heavy (75-81kg),bronze
+1018,azerbaijan, KINDZERSKA IKINDZERSKA Iryna, JUD,Women +78 kg,bronze
+1019,azerbaijan, AGHAYEV RAGHAYEV Rafael, KTE,Men's Kumite -75kg,silver
+1020,azerbaijan, ZARETSKA IZARETSKA Iryna, KTE,Women's Kumite +61kg,silver
+1021,azerbaijan, ALIYEV HALIYEV Haji, WRE,Men's Freestyle 65kg,silver
+1022,azerbaijan, HUSEYNOV RHUSEYNOV Rafig, WRE,Men's Greco-Roman 77kg,bronze
+1023,azerbaijan, STADNIK MSTADNIK Mariya, WRE,Women's Freestyle 50kg,bronze
+1024,dominican-rep-, PAULINO MPAULINO Marileidy, ATH,Women's 400m,silver
+1025,dominican-rep-, Dominican Republic, ATH,4 x 400m Relay Mixed,silver
+1026,dominican-rep-, Dominican Rep., BSB,Baseball,bronze
+1027,dominican-rep-, BONNAT MICHEL ZBONNAT MICHEL Zacarias, WLF,Men's 81kg,silver
+1028,dominican-rep-, SANTANA PEGUERO CDSANTANA PEGUERO Crismery Dominga, WLF,Women's 87kg,bronze
+1029,armenia, DAVTYAN ADAVTYAN Artur, GAR,Men's Vault,bronze
+1030,armenia, BACHKOV HBACHKOV Hovhannes, BOX,Men's Light (57-63kg),bronze
+1031,armenia, MARTIROSYAN SMARTIROSYAN Simon, WLF,Men's 109kg,silver
+1032,armenia, ALEKSANYAN AALEKSANYAN Artur, WRE,Men's Greco-Roman 97kg,silver
+1033,kyrgyzstan, MAKHMUDOV AMAKHMUDOV Akzhol, WRE,Men's Greco-Roman 77kg,silver
+1034,kyrgyzstan, TYNYBEKOVA ATYNYBEKOVA Aisuluu, WRE,Women's Freestyle 62kg,silver
+1035,kyrgyzstan, ZHUMANAZAROVA MZHUMANAZAROVA Meerim, WRE,Women's Freestyle 68kg,bronze
+1036,mongolia, MOLLAEI SMOLLAEI Saeid, JUD,Men -81 kg,silver
+1037,mongolia, TSEND-OCHIR TTSEND-OCHIR Tsogtbaatar, JUD,Men -73 kg,bronze
+1038,mongolia, MUNKHBAT UMUNKHBAT Urantsetseg, JUD,Women -48 kg,bronze
+1039,mongolia, BAT OCHIR BBAT OCHIR Bolortuya, WRE,Women's Freestyle 53kg,bronze
+1040,argentina, Argentina, HOC,Women,silver
+1041,argentina, Argentina, RUG,Men,bronze
+1042,argentina, Argentina, VVO,Men,bronze
+1043,san-marino, San Marino, SHO,Trap Mixed Team,silver
+1044,san-marino, PERILLI APERILLI Alessandra, SHO,Trap Women,bronze
+1045,san-marino, AMINE MNAMINE Myles Nazem, WRE,Men's Freestyle 86kg,bronze
+1046,jordan, ALMASATFA ARALMASATFA Abdel Rahman, KTE,Men's Kumite -67kg,bronze
+1047,jordan, ELSHARABATY SELSHARABATY Saleh, TKW,Men -80kg,silver
+1048,malaysia, CHIA Aaron/SOH Wooi Yik, BDM,Men's Doubles,bronze
+1049,malaysia, AWANG MAAWANG Mohd Azizulhasni, CTR,Men's Keirin,silver
+1050,nigeria, BRUME EBRUME Ese, ATH,Women's Long Jump,bronze
+1051,nigeria, OBORUDUDU BOBORUDUDU Blessing, WRE,Women's Freestyle 68kg,silver
+1052,bahrain, GEZAHEGNE KGEZAHEGNE Kalkidan, ATH,"Women's 10,000m",silver
+1053,saudi-arabia, HAMEDI THAMEDI Tareg, KTE,Men's Kumite +75kg,silver
+1054,lithuania, ASADAUSKAITE LASADAUSKAITE Laura, MPN,Women's Individual,silver
+1055,north-macedonia, GEORGIEVSKI DGEORGIEVSKI Dejan, TKW,Men +80kg,silver
+1056,namibia, MBOMA CMBOMA Christine, ATH,Women's 200m,silver
+1057,turkmenistan, GURYEVA PGURYEVA Polina, WLF,Women's 59kg,silver
+1058,kazakhstan, BIBOSSINOV SBIBOSSINOV Saken, BOX,Men's Fly (48-52kg),bronze
+1059,kazakhstan, KUNKABAYEV KKUNKABAYEV Kamshybek, BOX,Men's Super Heavy (+91kg),bronze
+1060,kazakhstan, SMETOV YSMETOV Yeldos, JUD,Men -60 kg,bronze
+1061,kazakhstan, ASSADILOV DASSADILOV Darkhan, KTE,Men's Kumite -67kg,bronze
+1062,kazakhstan, BERULTSEVA SBERULTSEVA Sofya, KTE,Women's Kumite +61kg,bronze
+1063,kazakhstan, SON ISON Igor, WLF,Men's 61kg,bronze
+1064,kazakhstan, CHINSHANLO ZCHINSHANLO Zulfiya, WLF,Women's 55kg,bronze
+1065,kazakhstan, SANAYEV NSANAYEV Nurislam, WRE,Men's Freestyle 57kg,bronze
+1066,mexico, Mexico, ARC,Mixed Team,bronze
+1067,mexico, Mexico, DIV,Women's Synchronised 10m Platform,bronze
+1068,mexico, Mexico, FBL,Men,bronze
+1069,mexico, FUENTES ZAVALA AFUENTES ZAVALA Aremi, WLF,Women's 76kg,bronze
+1070,finland, POTKONEN MMJPOTKONEN Mira Marjut Johanna, BOX,Women's Light (57-60kg),bronze
+1071,finland, MATTSSON MMATTSSON Matti, SWM,Men's 200m Breaststroke,bronze
+1072,botswana, Botswana, ATH,Men's 4 x 400m Relay,bronze
+1073,burkina-faso, ZANGO HFZANGO Hugues Fabrice, ATH,Men's Triple Jump,bronze
+1074,cote-d-ivoire, GBAGBI RGBAGBI Ruth, TKW,Women -67kg,bronze
+1075,ghana, TAKYI STAKYI Samuel, BOX,Men's Feather (52-57kg),bronze
+1076,grenada, JAMES KJAMES Kirani, ATH,Men's 400m,bronze
+1077,kuwait, ALRASHIDI AALRASHIDI Abdullah, SHO,Skeet Men,bronze
+1078,rep-of-moldova, TARNOVSCHI STARNOVSCHI Serghei, CSP,Men's Canoe Single 1000m,bronze
+1079,syrian-arab-rep-, ASAAD MASAAD Man, WLF,Men's +109kg,bronze
